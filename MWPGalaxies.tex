@@ -1,0 +1,104 @@
+\documentclass[times,usenatbib]{mn2e}
+\RequirePackage{graphicx}
+\RequirePackage{subfigure}
+\RequirePackage{rotating}
+
+\newcommand{\hiir}{H~{\scshape ii}~region}
+\newcommand{\hiirs}{H~{\scshape ii}~regions}
+\newcommand{\um}{$\mu$m}
+\newcommand{\degree}{^{\circ}}
+\newcommand{\apj}{ApJ}
+\newcommand{\apjs}{ApJS}
+\newcommand{\apjl}{ApJL}
+\newcommand{\aj}{AJ}
+\newcommand{\mnras}{MNRAS}
+\newcommand{\pasp}{PASP}
+\newcommand{\aap}{A\&A}
+\newcommand{\bubblecount}{5,106}
+
+\title[Galaxies in the ZoA]{The Milky Way Project: Galaxies in the Zone of Avoidance\footnote{This publication has been made possible by the participation of more than 40,000 volunteers.}}
+
+\author[Simpson et al.]
+{\parbox{\textwidth}{R. J. Simpson$^{1}$\thanks{Email: robert.simpson@astro.ox.ac.uk},
+K. Clements$^{2}$,
+A. Gazzard$^{3}$,
+B. Simmons$^{1}$,
+C. J. Lintott$^{1}$}\vspace{0.8cm}\\
+\parbox{\textwidth}{
+$^{1}$Oxford Astrophysics, Denys Wilkinson Building, Keble Road, Oxford, OX1 3RH, UK \\
+$^{2}$Wheatley School, Oxford, UK \\
+$^{2}$A. N. Other School, Oxford, UK }}
+
+\date{Draft form \today .}
+
+\pagerange{000--000}
+
+\begin{document}
+
+\label{firstpage}
+
+\maketitle
+
+\begin{abstract}
+
+We present a method for identifying galaxies and protostars through data gathered from citizen science website `The Milky Way Project’, and report the discovery of 33 previously unknown galaxies in the Zone of Avoidance. A list of 47 candidate galaxies identified through GLIMPSE and MIPSGAL survey data on `The Milky Way Project' website was used as a starting point, and characteristics of these candidate galaxies such as their locations, spectral energy distributions and redshift velocities were used to confirm whether they are galaxies. The magnitudes and integrated flux of the candidates were calculated in GLIMPSE bands 3.6$\mu$m, 4.5$\mu$m, 5.8$\mu$m and 8.0$\mu$m, and MIPSGAL band 24$\mu$m. The velocities of these newly found galaxies appear to correlate with the velocities of overdensities at very low Galactic latitudes either side of the Zone of Avoidance. Our findings therefore suggest that the large-scale structures continue throughout the Zone of Avoidance, and highlight the potential for hundreds more galaxies to be found in the Spitzer survey data of $-65^{\circ} \leq l \leq 65^{\circ}$.
+
+\end{abstract}
+\begin{keywords}
+H II regions -- infrared: ISM  -- ISM: dust -- stars: formation
+\end{keywords}
+
+\section{Introduction}
+
+The Zone of Avoidance (ZoA) remains the missing piece in our map of the large-scale structure of the Universe. Previous studies have shown that careful inspection of far-infrared Galactic plane data (e.g. from the Spitzer Space Telescope) can reveal highly obscured, and thus highly reddened, galaxies in this region \citep{Jarrett+07, Marleau+08}.
+
+\section{The Milky Way Project}
+\label{mwp-desc}
+
+The Milky Way Project \citep[MWP,][]{Simpson+12} is the ninth online citizen science project created using the Zooniverse\footnote{http://www.zooniverse.org} platform \citep{2011MNRAS.412.1309S}. The Zooniverse platform supports the activities of all Zooniverse citizen science projects. Built originally for Galaxy Zoo 2, the software is now being used by 11 different projects. The Zooniverse toolset is designed primarily as a way to of serving a large collection of `subjects' (for example, images or video) to a user interface, and collecting back user-generated interactions with these assets.
+
+Galaxy Zoo \citep{Lintott+08, Lintott+11} and the larger suite of Zooniverse projects have successfully built a large community of volunteers\footnote{Over 710,000 registered volunteers at time of writing.} eager to participate in scientific activities. The Zooniverse has shown that enlisting these `citizen scientists' via the internet is a powerful way to analyze large amounts of data. Human brains excel at pattern recognition tasks, and most people will reach a level of accuracy as high as any expert after a brief introduction. By enlisting citizen scientists, researchers can extend visual classification to large samples of images, having each image examined by a large number of independent classifiers. This allows researchers to tap into the `wisdom of the crowd' effect where the consensus of a group of non-experts is often more accurate than the testimony of a single expert.
+
+Another advantage of enlisting human classifiers is their ability to recognize unusual objects (e.g. galaxies, star clusters, dark clouds in the MWP) which computer search algorithms  may be unable to spot. This has been shown by the serendipitous discovery of Hanny's Voorwerp \citep{2009MNRAS.399..129L} and the case of the Galaxy Zoo `Green Peas' \citep{2009MNRAS.399.1191C}. Spitzer GLIMPSE data is ideally suited to classification by citizen scientists as the amount of data is large and the images contain complex, overlapping structures that are impossible to disentangle using automated algorithms.
+
+The assets in the MWP are multiband, false-colour JPEG images, created by gridding the {\it Spitzer} GLIMPSE and MIPSGAL mosaics into smaller images at three different zoom levels. The highest zoom level provides users with tiles of 0.3$^{\circ}\times$0.15$^{\circ}$, and at a resolution of 800$\times$400 pixels these tiles nearly reproduce the $1.2''$ pixel scale of the GLIMPSE survey images. Larger tile sizes of 0.75$^{\circ}\times$0.375$^{\circ}$ and 1.5$^{\circ}\times$0.75$^{\circ}$ were also generated. The tiles were plotted in an overlapping grid to allow all parts of the inner Galactic plane ($|l|\le 65\degree$, $|b|\le 1\degree$) to be viewed by the MWP users, at all zoom levels. To provide an optimal representation of the dynamic range within each tile, each of 3 single-band images was independently scaled to a square-root stretch function (with the faintest 5\% of image pixels clipped to black and the brightest 0.2\% clipped to white), assigned to a colour channel (red=24~\um, green=8.0~\um, blue=4.5~\um), and finally composited into a 3--colour image. The MIPSGAL 24~\um\ mosaics frequently saturate in regions of bright nebulosity, and saturated 24~\um\ pixels were set to maximum red to preserve the visual appeal of the images and to avoid presenting MWP users with saturation artefacts. The resulting composite images allow visual identification of both bright and faint features within a given image tile.
+
+The MWP user interface (see Figure~\ref{user-interface}) was built using Flash, based upon the pre-existing Moon Zoo interface \citep{Joy+11}. Volunteers are primarily encouraged to draw ellipses onto the image to mark the locations of bubbles. A short, online tutorial shows how to use the tool, and examples of prominent bubbles are given\footnote{http://www.milkywayproject.org/tutorial}. As a secondary task, users can also mark rectangular areas of interest, which can be labelled as small bubbles, green knots, dark nebulae, star clusters, galaxies, fuzzy red objects or `other'. Examples of these are also given in a tutorial on the website, and these are discussed further in Section~\ref{other-objects}. Users can add as many annotations as they wish before submitting the image, at which point they are given another image for annotation. Each image's annotations are stored in a database as a classification, and users can see the images they have classified in a part of the site called `My Galaxy'. Users can only classify a given image once.
+
+Volunteers are primarily asked to draw bubbles on the images, by placing elliptical annuli that match the structures they see in the data. They are also encouraged to mark other regions interest on an image, marking these are either star clusters, green knots, etc. Do do so, volunteers simply draw rectangles. Since these objects are secondary to the main bubble-finding task, the site was designed so that they should be simple and quick to mark. Simple rectangles allow us to record the positions and approximate sizes of any these other interesting objects.
+
+\section{Catalogue construction}
+
+\subsection{Galaxy images}
+
+\subsection{Aperture photometry}
+
+\subsection{Galaxy catalogue}
+
+\section{Results}
+
+\subsection{Spectral energy distributions}
+
+\subsection{Comparison with large-scale structure from 2MASS}
+
+\section{Discussion}
+
+\section{Summary and future work}
+
+\section*{Acknowledgments}
+
+This publication has been made possible by the participation of more than 40,000 volunteers on the Milky Way Project. Their contributions are acknowledged individually at http://www.milkywayproject.org/authors.
+
+The Milky Way Project, and R.J.S. were supported by The Leverhulme Trust. The `Talk' discussion tool used in the MWP was developed at the Adler Planetarium with support from the National Science Foundation CDI grant : DRL-0941610. 
+
+This work is based on observations made with the Spitzer Space Telescope, which is operated by the Jet Propulsion Laboratory, California Institute of Technology under a contract with NASA.
+
+\bibliographystyle{apj}
+\bibliography{mwpref}
+
+\clearpage
+
+\appendix{}
+
+\end{document}
+
