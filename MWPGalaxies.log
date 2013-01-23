@@ -1,5 +1,7 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2008.4.30)  22 JAN 2013 17:11
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2008.4.30)  23 JAN 2013 16:56
 entering extended mode
+\write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **MWPGalaxies.tex
 (./MWPGalaxies.tex
@@ -121,59 +123,7 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 LaTeX Warning: Unused global option(s):
     [times].
 
-(./MWPGalaxies.aux
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-
-LaTeX Warning: Label `gal1' multiply defined.
-
-)
+(./MWPGalaxies.aux)
 \openout1 = `MWPGalaxies.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -212,9 +162,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-Missing character: There is no Õ in font cmr10!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 58.
+(Font)              <9> on input line 53.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
 (/usr/local/texlive/2007/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -228,14 +177,16 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 File: ./figures/user-interface.eps Graphic file (type eps)
 
 <./figures/user-interface.eps>
-Overfull \hbox (1.91785pt too wide) in paragraph at lines 65--66
+Overfull \hbox (1.91785pt too wide) in paragraph at lines 67--68
 [][] 
  []
 
+[2]
+Underfull \vbox (badness 2486) has occurred while \output is active []
 
-LaTeX Warning: Reference `other-objects' on page 2 undefined on input line 72.
-
+ [3]
 File: ./figures/3col/1.eps Graphic file (type eps)
+
 <./figures/3col/1.eps>
 File: ./figures/3col/2.eps Graphic file (type eps)
  <./figures/3col/2.eps>
@@ -334,12 +285,15 @@ File: ./figures/3col/42.eps Graphic file (type eps)
  <./figures/3col/42.eps>
 File: ./figures/3col/43.eps Graphic file (type eps)
 
-<./figures/3col/43.eps> (./MWPGalaxies.bbl [2]) [3
+<./figures/3col/43.eps> (./MWPGalaxies.bbl) [4
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
 File: ./figures/cutouts/1.jpg.eps Graphic file (type eps)
 
 <./figures/cutouts/1.jpg.eps>
@@ -359,199 +313,21 @@ File: ./figures/3col/2.eps Graphic file (type eps)
  <./figures/3col/2.eps>
 File: ./figures/seds/gal2.eps Graphic file (type eps)
  <./figures/seds/gal2.eps>
-File: ./figures/cutouts/3.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/3.jpg.eps>
-File: ./figures/IRAC4/3.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/3.jpg.eps>
-File: ./figures/3col/3.eps Graphic file (type eps)
-
-<./figures/3col/3.eps>
-File: ./figures/seds/gal3.eps Graphic file (type eps)
- <./figures/seds/gal3.eps>
-File: ./figures/cutouts/4.jpg.eps Graphic file (type eps)
- <./figures/cutouts/4.jpg.eps>
-File: ./figures/IRAC4/4.jpg.eps Graphic file (type eps)
-
-<./figures/IRAC4/4.jpg.eps>
-File: ./figures/3col/4.eps Graphic file (type eps)
- <./figures/3col/4.eps>
-File: ./figures/seds/gal4.eps Graphic file (type eps)
- <./figures/seds/gal4.eps>
-File: ./figures/cutouts/5.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/5.jpg.eps>
-File: ./figures/IRAC4/5.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/5.jpg.eps>
-File: ./figures/3col/5.eps Graphic file (type eps)
-
-<./figures/3col/5.eps>
-File: ./figures/seds/gal5.eps Graphic file (type eps)
- <./figures/seds/gal5.eps>
-File: ./figures/cutouts/7.jpg.eps Graphic file (type eps)
- <./figures/cutouts/7.jpg.eps>
-File: ./figures/IRAC4/7.jpg.eps Graphic file (type eps)
-
-<./figures/IRAC4/7.jpg.eps>
-File: ./figures/3col/7.eps Graphic file (type eps)
- <./figures/3col/7.eps>
-File: ./figures/seds/gal7.eps Graphic file (type eps)
- <./figures/seds/gal7.eps>
-File: ./figures/cutouts/8.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/8.jpg.eps>
-File: ./figures/IRAC4/8.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/8.jpg.eps>
-File: ./figures/3col/8.eps Graphic file (type eps)
-
-<./figures/3col/8.eps>
-File: ./figures/seds/gal8.eps Graphic file (type eps)
- <./figures/seds/gal8.eps>
-File: ./figures/cutouts/9.jpg.eps Graphic file (type eps)
- <./figures/cutouts/9.jpg.eps>
-File: ./figures/IRAC4/9.jpg.eps Graphic file (type eps)
-
-<./figures/IRAC4/9.jpg.eps>
-File: ./figures/3col/9.eps Graphic file (type eps)
- <./figures/3col/9.eps>
-File: ./figures/seds/gal9.eps Graphic file (type eps)
- <./figures/seds/gal9.eps>
-File: ./figures/cutouts/10.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/10.jpg.eps>
-File: ./figures/IRAC4/10.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/10.jpg.eps>
-File: ./figures/3col/10.eps Graphic file (type eps)
-
-<./figures/3col/10.eps>
-File: ./figures/seds/gal10.eps Graphic file (type eps)
- <./figures/seds/gal10.eps>
-File: ./figures/cutouts/11.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/11.jpg.eps>
-File: ./figures/IRAC4/11.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/11.jpg.eps>
-File: ./figures/3col/11.eps Graphic file (type eps)
-
-<./figures/3col/11.eps>
-File: ./figures/seds/gal11.eps Graphic file (type eps)
- <./figures/seds/gal11.eps>
-File: ./figures/cutouts/12.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/12.jpg.eps>
-File: ./figures/IRAC4/12.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/12.jpg.eps>
-File: ./figures/3col/12.eps Graphic file (type eps)
-
-<./figures/3col/12.eps>
-File: ./figures/seds/gal12.eps Graphic file (type eps)
- <./figures/seds/gal12.eps>
-File: ./figures/cutouts/13.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/13.jpg.eps>
-File: ./figures/IRAC4/13.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/13.jpg.eps>
-File: ./figures/3col/13.eps Graphic file (type eps)
-
-<./figures/3col/13.eps>
-File: ./figures/seds/gal13.eps Graphic file (type eps)
- <./figures/seds/gal13.eps>
-File: ./figures/cutouts/14.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/14.jpg.eps>
-File: ./figures/IRAC4/14.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/14.jpg.eps>
-File: ./figures/3col/14.eps Graphic file (type eps)
-
-<./figures/3col/14.eps>
-File: ./figures/seds/gal14.eps Graphic file (type eps)
- <./figures/seds/gal14.eps>
-File: ./figures/cutouts/15.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/15.jpg.eps>
-File: ./figures/IRAC4/15.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/15.jpg.eps>
-File: ./figures/3col/15.eps Graphic file (type eps)
-
-<./figures/3col/15.eps>
-File: ./figures/seds/gal15.eps Graphic file (type eps)
- <./figures/seds/gal15.eps>
-File: ./figures/cutouts/16.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/16.jpg.eps>
-File: ./figures/IRAC4/16.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/16.jpg.eps>
-File: ./figures/3col/16.eps Graphic file (type eps)
-
-<./figures/3col/16.eps>
-File: ./figures/seds/gal16.eps Graphic file (type eps)
- <./figures/seds/gal16.eps>
-File: ./figures/cutouts/18.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/18.jpg.eps>
-File: ./figures/IRAC4/18.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/18.jpg.eps>
-File: ./figures/3col/18.eps Graphic file (type eps)
-
-<./figures/3col/18.eps>
-File: ./figures/seds/gal18.eps Graphic file (type eps)
- <./figures/seds/gal18.eps>
-File: ./figures/cutouts/19.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/19.jpg.eps>
-File: ./figures/IRAC4/19.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/19.jpg.eps>
-File: ./figures/3col/19.eps Graphic file (type eps)
-
-<./figures/3col/19.eps>
-File: ./figures/seds/gal19.eps Graphic file (type eps)
- <./figures/seds/gal19.eps>
-File: ./figures/cutouts/20.jpg.eps Graphic file (type eps)
-
-<./figures/cutouts/20.jpg.eps>
-File: ./figures/IRAC4/20.jpg.eps Graphic file (type eps)
- <./figures/IRAC4/20.jpg.eps>
-File: ./figures/3col/20.eps Graphic file (type eps)
-
-<./figures/3col/20.eps>
-File: ./figures/seds/gal20.eps Graphic file (type eps)
- <./figures/seds/gal20.eps> [5
+[7
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-(./MWPGalaxies.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+(./MWPGalaxies.aux) ) 
 Here is how much of TeX's memory you used:
- 1532 strings out of 94074
- 18875 string characters out of 1163007
- 90904 words of memory out of 1500000
- 4752 multiletter control sequences out of 10000+50000
+ 1456 strings out of 94074
+ 17327 string characters out of 1163007
+ 87462 words of memory out of 1500000
+ 4708 multiletter control sequences out of 10000+50000
  15266 words of font info for 50 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  31i,12n,34p,1469b,335s stack positions out of 5000i,500n,6000p,200000b,5000s
 
-Output written on MWPGalaxies.dvi (11 pages, 34080 bytes).
+Output written on MWPGalaxies.dvi (8 pages, 32176 bytes).

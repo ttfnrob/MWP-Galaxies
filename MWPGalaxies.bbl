@@ -1,9 +1,5 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{9}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-
-\bibitem[{{Beaumont} {et~al.}(2011){Beaumont}, {Williams}, \&
-  {Goodman}}]{Beaumont+11}
-{Beaumont}, C.~N., {Williams}, J.~P., \& {Goodman}, A.~A. 2011, ArXiv e-prints
 
 \bibitem[{{Cardamone} {et~al.}(2009){Cardamone}, {Schawinski}, {Sarzi},
   {Bamford}, {Bennert}, {Urry}, {Lintott}, {Keel}, {Parejko}, {Nichol},
@@ -45,12 +41,6 @@
   {Clancy}, {Carey}, {Shenoy}, {Kraemer}, {Kuchar}, {Mizuno}, \&
   {Price}}]{Marleau+08}
 {Marleau}, F.~R., {et~al.} 2008, \aj, 136, 662
-
-\bibitem[{{Raddick} {et~al.}(2010){Raddick}, {Bracey}, {Gay}, {Lintott},
-  {Murray}, {Schawinski}, {Szalay}, \& {Vandenberg}}]{2010AEdRv...9a0103R}
-{Raddick}, M.~J., {Bracey}, G., {Gay}, P.~L., {Lintott}, C.~J., {Murray}, P.,
-  {Schawinski}, K., {Szalay}, A.~S., \& {Vandenberg}, J. 2010, Astronomy
-  Education Review, 9, 010103
 
 \bibitem[{{Simpson} {et~al.}(2012){Simpson}, {Povich}, {Kendrew}, {Lintott},
   {Bressert}, {Arvidsson}, {Cyganowski}, {Maddison}, {Schawinski}, {Sherman},
