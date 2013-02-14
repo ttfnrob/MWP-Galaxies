@@ -15,7 +15,7 @@
 \newcommand{\pasp}{PASP}
 \newcommand{\aap}{A\&A}
 
-\title[Galaxies in the ZoA]{The Milky Way Project: Galaxies in the Zone of Avoidance\footnote{This publication has been made possible by the participation of more than 40,000 volunteers.}}
+\title[New Galaxies in the ZoA]{The Milky Way Project: New Galaxies in the Zone of Avoidance\footnote{This publication has been made possible by the participation of more than 40,000 volunteers.}}
 
 \author[Simpson et al.]
 {\parbox{\textwidth}{R. J. Simpson$^{1}$\thanks{Email: robert.simpson@astro.ox.ac.uk},
@@ -76,7 +76,7 @@ Volunteers are primarily asked to draw bubbles on the images, by placing ellipti
 
 \section{Catalogue construction}
 
-The galaxy candidates presented here are derived from 30,529 galaxy annotations by volunteers on the MWP -- literally drawn as boxes on the sky at locations where they believed there \emph{might} be a galaxy. These boxes were gridded together on the basis of position and size, with a grid size equal to the smallest MWP annotation size of 20 pixels. The resulting list of 360 unique objects each have a calculated averaged position, height and width as well as a ratio of number-of-times-viewed to number-of-times-drawn by MWP volunteers (known as the `hit rate'). Only those objects drawn by at least three independent volunteers, and with a hit-rate of at least 10\%, were retained. This quality control step ensures that most spurious and unintentional drawings do not contaninate the reduced set and a similar measures is taken in \citet{Simpson+12}. The resultant XXXX objects were visually inspected. Any obvious outliers or misclassifications were removed (e.g. stars, diffraction spikes and small bubbles) and the final set of objects forms the list of 43 candidates shown in Table~\ref{candidate-catalogue}.
+The galaxy candidates presented here are derived from 30,529 galaxy annotations by volunteers on the MWP -- literally drawn as boxes on the sky at locations where they believed there \emph{might} be a galaxy. These boxes were gridded together on the basis of position and size, with a grid size equal to the smallest MWP annotation size of 20 pixels. The resulting list of 1,003 unique objects each have a calculated averaged position, height and width as well as a ratio of number-of-times-viewed to number-of-times-drawn by MWP volunteers (known as the `hit rate'). Only those objects drawn by at least three independent volunteers, and with a hit-rate of at least 10\%, were retained. This quality control step ensures that most spurious and unintentional drawings do not contaninate the reduced set and a similar measures is taken in \citet{Simpson+12}. The resultant 87 objects were visually inspected. Any obvious outliers or misclassifications were removed (e.g. stars, diffraction spikes and small bubbles) and the final set of objects forms the list of 43 candidates shown in Table~\ref{candidate-catalogue}.
 
 \begin{table*}
 \begin{center}
@@ -155,8 +155,6 @@ The IRAC flux densities were multiplied by the aperture correction factor accord
 
 All extinction-corrected photometric measurements are given in Table~\ref{candidate-catalogue}. Uncertainties in the flux density measurements varied with passband, and we assumed flux density uncertainties of the order of 20\%.
 
-\subsection{Galaxy images}
-
 \begin{figure*}
 \begin{center}
 \subfigure[Candidate 1]{\includegraphics[width=0.19\textwidth]{./figures/3col/1.eps}}
@@ -214,13 +212,48 @@ All extinction-corrected photometric measurements are given in Table~\ref{candid
 \end{center}
 \end{figure*} 
 
-\subsection{Galaxy catalogue}
-
 \section{Results}
 
 \subsection{Spectral energy distributions}
 
+Figures A\ref{gal1}--A\ref{gal43} show the SED distributions of the candidate galaxies alongside models of normal star-forming galaxies from Dale et al. (2001) and Dale \& Helou (2002). These models cover cover a wide wavelength range, from 3 to 1100 μm, but are described by only the parameter, f$\nu$ (60 $\mu$m)/f$\nu$ (100 $\mu$m). This range is based on IRAS and ISO measurements and is useful when considering our galaxy candidates, for which the flux-densities derived at longer wavelengths are more reliable, given the extreme reddening at shorter wavelengths.
+
+The Dale \& Helou (2002) model SEDs assume a power-law distribution of dust mass in a given galaxy. The dust mass, $dM_{d}$ heated by a radiation field at intensity $U$ is given by,
+
+\begin{equation}
+dM_{d}(U) \propto U^{-\alpha}dU,
+\label{cdale-model}
+\end{equation}
+
+\begin{figure}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{./figures/seds/gal4.eps}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{./figures/seds/gal14.eps}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{./figures/seds/gal32.eps}}
+\caption{Data with model SEDs for galaxy candidates 4, 14 and 32. These candiates fit well to the model SEDs.}
+\label{goodfits}
+\end{center}
+\end{figure} 
+
+\begin{figure}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{./figures/seds/gal27.eps}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{./figures/seds/gal33.eps}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{./figures/seds/gal40.eps}}
+\caption{Data with model SEDs for galaxy candidates 27, 33 and 40. These candiates do not fit well to the model SEDs.}
+\label{badfits}
+\end{center}
+\end{figure} 
+ 
+where the exponent $\alpha$ represents the relative contributions of the different local SEDs. The range of $\alpha$ that describes normal galaxy SEDs is approximately $1.0 < \alpha < 2.5$. The models were obtained from Dale’s Web site\footnote{http://faraday.uwyo.edu/∼ddale/research/seds/seds.html.}, which provided model SEDs for $0.0625 \leq \alpha \leq 4.0$ (with a step size of 0.0625).
+
+The model SEDs are shown in Figures A\ref{gal1}--A\ref{gal43} are grey lines. The models showing the two extreme $\alpha$ values are shown, along with a middle value. This direct comparison between the model and data is used to decide whether or not each candiate istruly a galaxy. Figure~\ref{goodfits} shows examples of candidates SEDs that display a good match to the models. Conversely, Figure~\ref{badfits} shows candidates which are unlikely to be galaxies base don their comparsion to the models.
+
 \subsection{Comparison with large-scale structure from 2MASS}
+
+We estimate the distance (and thus redshift) to each candidate galaxy using the Ks-band magnitudes of each, and the distance luminosity function from Kochanek et al. (2001). We derive the Ks-band magnitude using the IRAC channel 1 and 2 flux density measurements. These are less affected by uncertainties, due to extinction and the presence of polycyclic aromatic hydrocarbon (PAH) emission features, than the IRAC 3 and 4 channels. The resultant, fitted redshift values are shown in Table~\ref{galaxy-catalogue}. Using this method, the candidates have estimated redshifts ranging between 0.011 and 0.155 (distance of 47--730 Mpc)
+
+To compare the positions of our candiate galaxies with the large-scale structure of universe we use the 2MASS Redshift Survey (2MRS, Huchra et. al 2011)\footnote{https://www.cfa.harvard.edu/~dfabricant/huchra/2mass/}. Figures\ref{polar}--\ref{2mrsz2} show sections of the 2MRS is the region covered by GLIMPSE, with candidate galaxies shown in red.
 
 \begin{figure}
 \includegraphics[width=0.48\textwidth]{./figures/polar.eps}
@@ -246,11 +279,66 @@ All extinction-corrected photometric measurements are given in Table~\ref{candid
 \label{2mrsz2}
 \end{figure}
 
-\begin{figure*}
-\includegraphics[width=0.98\textwidth]{./figures/2MRS_All.eps}
-\caption{Positions of galaxies relative to our own.}
-\label{2mrs_all}
-\end{figure*}
+\subsection{Galaxy catalogue}
+
+A short catalogue of galaxies results from the comparsion between model galaxy SEDs and flux-densities measurements. This list of 33 previously-unknown galaxie sin the ZoA is shown in Table~\ref{galaxy-catalogue}. 
+
+\begin{table*}
+\begin{center}
+\caption{Table of galaxy parameters, including galactic coordinates, corrected magnitudes for Spitzer IRAC bands 1, 2, 3 and 4, and the MIPS 24$\mu$m flux.}
+\begin{tabular}{lcccc}
+\hline
+ID & GLON & GLAT & Fitted & Candidate \\
+ & (deg) & (deg) & Redshift & Status \\
+\hline
+ 1 & 004.548483 & $-$0.781395 & 0.012 & Galaxy \\
+ 2 & 011.818667 & $-$0.025800 & 0.047 & Galaxy \\
+ 3 & 012.741267 & $-$0.000400 & ---   & Unknown \\
+ 4 & 017.225237 & $-$0.584033 & 0.130 & Galaxy \\
+ 5 & 017.784417 & +0.034222 &   0.141 & Galaxy \\
+ 6 & 028.141688 & $-$0.192917 & 0.054 & Galaxy \\
+ 7 & 028.729475 & $-$0.539626 & 0.020 & Galaxy \\
+ 8 & 036.399831 & $-$0.466475 & ---   & Unknown \\
+ 9 & 041.581565 & $-$0.884437 & 0.025 & Galaxy \\
+10 & 042.908694 & $-$0.888909 & ---   & Unknown \\
+11 & 047.824267 & $-$0.390300 & 0.021 & Galaxy \\
+12 & 048.707895 & +0.961547 &   0.029 & Galaxy \\
+13 & 054.574569 & $-$0.511079 & 0.028 & Galaxy \\
+14 & 054.657243 & $-$0.256119 & 0.033 & Galaxy \\
+15 & 055.307833 & +0.810834 &   0.026 & Galaxy \\
+16 & 057.474400 & $-$0.387300 & 0.020 & Galaxy \\
+17 & 058.441232 & $-$0.470409 & 0.017 & Galaxy \\
+18 & 059.217833 & +0.396467 &    & Galaxy \\
+19 & 059.545904 & +0.776002 &   0.024 & Galaxy \\
+20 & 061.350500 & $-$0.108500 & 0.017 & Galaxy \\
+21 & 063.349203 & $-$0.768282 & 0.017 & Galaxy \\
+22 & 299.362072 & +0.731691 &    & Galaxy \\
+23 & 299.398377 & +0.888066 &   0.043 & Galaxy \\
+24 & 302.037426 & $-$0.528374 & 0.029 & Galaxy \\
+25 & 302.373292 & $-$0.023500 & ---   & Unknown \\
+26 & 306.681500 & +0.015125 &    & Galaxy \\
+27 & 314.143892 & $-$0.682605 & ---   & Unknown \\
+28 & 316.873061 & $-$0.599138 & 0.087 & Galaxy \\
+29 & 317.039057 & $-$0.497820 & 0.020 & Galaxy \\
+30 & 318.527084 & +0.504229 &   0.031 & Galaxy \\
+31 & 318.729619 & $-$0.097762 & 0.030 & Galaxy \\
+32 & 321.402694 & +0.652191 &   0.117 & Galaxy \\
+33 & 322.552422 & +0.815422 &    & Unknown \\
+34 & 324.323250 & +0.317000 &   0.028 & Galaxy \\
+35 & 325.245517 & $-$0.799997 & 0.033 & Galaxy \\
+36 & 333.445875 & +0.356375 &   0.141 & Galaxy \\
+37 & 335.104583 & $-$0.066792 & ---   & Unknown \\
+38 & 335.517000 & $-$0.378042 & 0.155 & Galaxy \\
+39 & 341.857467 & $-$0.842779 & 0.029 & Galaxy \\
+40 & 350.457146 & $-$0.041708 & ---   & Unknown \\
+41 & 350.101407 & +0.389093 &   0.023 & Galaxy \\
+42 & 357.148741 & $-$0.572130 & 0.011 & Galaxy \\
+43 & 357.737833 & $-$0.092033 & 0.023 & Galaxy \\
+\hline
+\end{tabular}
+\end{center}
+\label{galaxy-catalogue}
+\end{table*}
 
 \section{Discussion}
 
@@ -288,6 +376,94 @@ This work is based on observations made with the Spitzer Space Telescope, which 
 \subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal2.eps}}
 \caption{Data for galaxy candidate 2. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
 \label{gal2}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/4.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/4.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/4.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal4.eps}}
+\caption{Data for galaxy candidate 4. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal4}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/14.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/14.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/14.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal14.eps}}
+\caption{Data for galaxy candidate 14. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal14}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/26.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/26.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/26.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal26.eps}}
+\caption{Data for galaxy candidate 26. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal26}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/27.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/27.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/27.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal27.eps}}
+\caption{Data for galaxy candidate 27. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal27}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/32.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/32.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/32.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal32.eps}}
+\caption{Data for galaxy candidate 32. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal32}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/33.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/33.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/33.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal33.eps}}
+\caption{Data for galaxy candidate 33. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal33}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/40.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/40.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/40.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal40.eps}}
+\caption{Data for galaxy candidate 40. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal40}
+\end{center}
+\end{figure*} 
+
+\begin{figure*}
+\begin{center}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/cutouts/43.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/IRAC4/43.eps}}
+\subfigure[]{\includegraphics[width=0.22\textwidth]{./figures/3col/43.eps}}
+\subfigure[]{\includegraphics[width=0.32\textwidth]{./figures/seds/gal43.eps}}
+\caption{Data for galaxy candidate 43. Subfigures show (a) MWP image cutout; (b) IRAC 8$\mu$m data; (c) Three-colour composite with RGB channels using Spitzer IRAC bands 8$\mu$m, 4.5$\mu$m and 3.6$\mu$m respectively; and (d) measured SED for this object.}
+\label{gal43}
 \end{center}
 \end{figure*} 
 
