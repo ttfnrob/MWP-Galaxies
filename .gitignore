@@ -3,5 +3,9 @@
 *.fdb_latexmk
 *.fls
 *.ps
+*.blg
+*.dvi
+*.log
+*.DS_Store
 *.synctex.gz
 !.gitignore
