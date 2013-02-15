@@ -28,4 +28,4 @@ set logscale y
 set title "Comparison to 2MRS (Redshift)"
 set style data points
 
-plot '2mrs/2mrscut.dat' using 1:3 ls 1, '2mrs/2mrscut.dat' using ($1-360):3 ls 1, 'gals_z.csv' using 4:5 ls 2
+plot '../../data/2mrs/2mrscut.dat' using 1:3 ls 1, '../../data/2mrs/2mrscut.dat' using ($1-360):3 ls 1, '../../data/gals_fitted_z.csv' using 4:5 ls 2

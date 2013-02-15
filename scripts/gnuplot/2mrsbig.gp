@@ -28,7 +28,7 @@ set x2label "Redshift (z)" offset 0,-0.75
 set yrange [-20:20]
 set y2tics -20,5,20
 set grid y2tics lc rgb "#dddddd" lw 1 lt 0
-plot '../../data/2mrs/2mrscut.dat' using 3:2 ls 1, '../../data/gals_z.csv' using 5:2 ls 2
+plot '../../data/2mrs/2mrscut.dat' using 3:2 ls 1, '../../data/gals_fitted_z.csv' using 5:2 ls 2
 
 #BOTTOMLEFT
 set tmargin at screen 0.55; set bmargin at screen 0.10
@@ -47,7 +47,7 @@ unset y2tics
 unset y2label
 set grid ytics lc rgb "#dddddd" lw 1 lt 0
 set ylabel "GLAT / degrees" offset 3,0
-plot '2mrs/2mrscut.dat' using 1:2 ls 1, '2mrs/2mrscut.dat' using ($1-360):2 ls 1, 'gals_z.csv' using 4:2 ls 2
+plot '../../data/2mrs/2mrscut.dat' using 1:2 ls 1, '../../data/2mrs/2mrscut.dat' using ($1-360):2 ls 1, '../../data/gals_fitted_z.csv' using 4:2 ls 2
 
 #TOPLEFT
 set tmargin at screen 0.97; set bmargin at screen 0.55
@@ -68,6 +68,6 @@ set y2tics (0.002,0.005,0.01,0.02,0.05,0.1,0.2)
 set grid y2tics lc rgb "#dddddd" lw 1 lt 0
 set y2label "Redshift (z)" offset -2,0
 set x2label "GLON / degrees" offset 0,0
-plot '2mrs/2mrscut.dat' using 1:3 ls 1, '2mrs/2mrscut.dat' using ($1-360):3 ls 1, 'gals_z.csv' using 4:5 ls 2
+plot '../../data/2mrs/2mrscut.dat' using 1:3 ls 1, '../../data/2mrs/2mrscut.dat' using ($1-360):3 ls 1, '../../data/gals_fitted_z.csv' using 4:5 ls 2
 
 unset multiplot

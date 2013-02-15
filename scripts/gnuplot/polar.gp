@@ -29,4 +29,4 @@ set size ratio 0.5
 unset key
 #set title "Galaxy Locations"
 set style data points
-plot 'gals_z.csv' using ($4+90):5
+plot '../../data/gals_fitted_z.csv' using ($4+90):5

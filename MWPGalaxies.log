@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.23)  15 FEB 2013 10:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.23)  15 FEB 2013 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1055,11 +1055,11 @@ ine 209.
 Missing character: There is no Î in font cmr9!
 Missing character: There is no ¼ in font cmr9!
 Package epstopdf Info: Source file: <./figures/seds/gal4.eps>
-(epstopdf)                    date: 2013-01-22 16:20:40
-(epstopdf)                    size: 23730 bytes
+(epstopdf)                    date: 2013-02-15 12:03:35
+(epstopdf)                    size: 24056 bytes
 (epstopdf)             Output file: <./figures/seds/gal4-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-02-14 15:56:10
-(epstopdf)                    size: 11176 bytes
+(epstopdf)                    date: 2013-02-15 12:05:00
+(epstopdf)                    size: 11216 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal4-eps-co
 nverted-to.pdf ./figures/seds/gal4.eps>
 (epstopdf)             \includegraphics on input line 230.
@@ -1073,12 +1073,12 @@ Package pdftex.def Info: ./figures/seds/gal4-eps-converted-to.pdf used on input
  line 230.
 (pdftex.def)             Requested size: 201.59692pt x 141.11946pt.
 Package epstopdf Info: Source file: <./figures/seds/gal14.eps>
-(epstopdf)                    date: 2013-01-22 16:20:41
-(epstopdf)                    size: 23732 bytes
+(epstopdf)                    date: 2013-02-15 12:03:36
+(epstopdf)                    size: 24058 bytes
 (epstopdf)             Output file: <./figures/seds/gal14-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:47:18
-(epstopdf)                    size: 11177 bytes
+(epstopdf)                    date: 2013-02-15 12:05:00
+(epstopdf)                    size: 11217 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal14-eps-c
 onverted-to.pdf ./figures/seds/gal14.eps>
 (epstopdf)             \includegraphics on input line 231.
@@ -1092,12 +1092,12 @@ Package pdftex.def Info: ./figures/seds/gal14-eps-converted-to.pdf used on inpu
 t line 231.
 (pdftex.def)             Requested size: 201.59692pt x 141.11946pt.
 Package epstopdf Info: Source file: <./figures/seds/gal32.eps>
-(epstopdf)                    date: 2013-01-22 16:20:44
-(epstopdf)                    size: 23731 bytes
+(epstopdf)                    date: 2013-02-15 12:03:39
+(epstopdf)                    size: 24057 bytes
 (epstopdf)             Output file: <./figures/seds/gal32-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:47:24
-(epstopdf)                    size: 11177 bytes
+(epstopdf)                    date: 2013-02-15 12:05:01
+(epstopdf)                    size: 11216 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal32-eps-c
 onverted-to.pdf ./figures/seds/gal32.eps>
 (epstopdf)             \includegraphics on input line 232.
@@ -1111,12 +1111,12 @@ Package pdftex.def Info: ./figures/seds/gal32-eps-converted-to.pdf used on inpu
 t line 232.
 (pdftex.def)             Requested size: 201.59692pt x 141.11946pt.
 Package epstopdf Info: Source file: <./figures/seds/gal27.eps>
-(epstopdf)                    date: 2013-01-22 16:20:43
-(epstopdf)                    size: 23731 bytes
+(epstopdf)                    date: 2013-02-15 12:03:38
+(epstopdf)                    size: 24057 bytes
 (epstopdf)             Output file: <./figures/seds/gal27-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:56:14
-(epstopdf)                    size: 11176 bytes
+(epstopdf)                    date: 2013-02-15 12:05:02
+(epstopdf)                    size: 11215 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal27-eps-c
 onverted-to.pdf ./figures/seds/gal27.eps>
 (epstopdf)             \includegraphics on input line 240.
@@ -1130,12 +1130,12 @@ Package pdftex.def Info: ./figures/seds/gal27-eps-converted-to.pdf used on inpu
 t line 240.
 (pdftex.def)             Requested size: 201.59692pt x 141.11946pt.
 Package epstopdf Info: Source file: <./figures/seds/gal33.eps>
-(epstopdf)                    date: 2013-01-22 16:20:44
-(epstopdf)                    size: 23731 bytes
+(epstopdf)                    date: 2013-02-15 12:03:39
+(epstopdf)                    size: 24057 bytes
 (epstopdf)             Output file: <./figures/seds/gal33-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:56:17
-(epstopdf)                    size: 11183 bytes
+(epstopdf)                    date: 2013-02-15 12:05:03
+(epstopdf)                    size: 11222 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal33-eps-c
 onverted-to.pdf ./figures/seds/gal33.eps>
 (epstopdf)             \includegraphics on input line 241.
@@ -1149,12 +1149,12 @@ Package pdftex.def Info: ./figures/seds/gal33-eps-converted-to.pdf used on inpu
 t line 241.
 (pdftex.def)             Requested size: 201.59692pt x 141.11946pt.
 Package epstopdf Info: Source file: <./figures/seds/gal40.eps>
-(epstopdf)                    date: 2013-01-22 16:20:45
-(epstopdf)                    size: 23730 bytes
+(epstopdf)                    date: 2013-02-15 12:03:41
+(epstopdf)                    size: 24056 bytes
 (epstopdf)             Output file: <./figures/seds/gal40-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:56:20
-(epstopdf)                    size: 11183 bytes
+(epstopdf)                    date: 2013-02-15 12:05:04
+(epstopdf)                    size: 11223 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal40-eps-c
 onverted-to.pdf ./figures/seds/gal40.eps>
 (epstopdf)             \includegraphics on input line 242.
@@ -1174,11 +1174,11 @@ Missing character: There is no â in font cmr8!
 Missing character: There is no ˆ in font cmr8!
 Missing character: There is no ¼ in font cmr8!
 Package epstopdf Info: Source file: <./figures/polar.eps>
-(epstopdf)                    date: 2013-01-23 22:53:35
-(epstopdf)                    size: 22378 bytes
+(epstopdf)                    date: 2013-02-15 12:25:00
+(epstopdf)                    size: 21717 bytes
 (epstopdf)             Output file: <./figures/polar-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-01-24 09:31:23
-(epstopdf)                    size: 6347 bytes
+(epstopdf)                    date: 2013-02-15 12:25:11
+(epstopdf)                    size: 5776 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/polar-eps-conver
 ted-to.pdf ./figures/polar.eps>
 (epstopdf)             \includegraphics on input line 259.
@@ -1197,12 +1197,12 @@ Overfull \hbox (1.91785pt too wide) in paragraph at lines 259--260
  []
 
 Package epstopdf Info: Source file: <./figures/2MRS_latlon.eps>
-(epstopdf)                    date: 2013-02-15 10:11:31
-(epstopdf)                    size: 73603 bytes
+(epstopdf)                    date: 2013-02-15 12:23:17
+(epstopdf)                    size: 73617 bytes
 (epstopdf)             Output file: <./figures/2MRS_latlon-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2013-02-15 10:32:42
-(epstopdf)                    size: 76958 bytes
+(epstopdf)                    date: 2013-02-15 12:25:12
+(epstopdf)                    size: 76979 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/2MRS_latlon-eps-
 converted-to.pdf ./figures/2MRS_latlon.eps>
 (epstopdf)             \includegraphics on input line 265.
@@ -1220,11 +1220,11 @@ Overfull \hbox (1.91785pt too wide) in paragraph at lines 265--266
  []
 
 Package epstopdf Info: Source file: <./figures/2MRS_zlon.eps>
-(epstopdf)                    date: 2013-01-24 20:28:21
-(epstopdf)                    size: 72722 bytes
+(epstopdf)                    date: 2013-02-15 12:24:40
+(epstopdf)                    size: 73058 bytes
 (epstopdf)             Output file: <./figures/2MRS_zlon-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-01-24 20:48:52
-(epstopdf)                    size: 76173 bytes
+(epstopdf)                    date: 2013-02-15 12:25:13
+(epstopdf)                    size: 76229 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/2MRS_zlon-eps-co
 nverted-to.pdf ./figures/2MRS_zlon.eps>
 (epstopdf)             \includegraphics on input line 271.
@@ -1242,11 +1242,11 @@ Overfull \hbox (1.91785pt too wide) in paragraph at lines 271--272
  []
 
 Package epstopdf Info: Source file: <./figures/2MRS_zlat.eps>
-(epstopdf)                    date: 2013-01-24 20:28:17
-(epstopdf)                    size: 70520 bytes
+(epstopdf)                    date: 2013-02-15 12:24:48
+(epstopdf)                    size: 70856 bytes
 (epstopdf)             Output file: <./figures/2MRS_zlat-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-01-24 20:48:56
-(epstopdf)                    size: 76599 bytes
+(epstopdf)                    date: 2013-02-15 12:25:15
+(epstopdf)                    size: 76658 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/2MRS_zlat-eps-co
 nverted-to.pdf ./figures/2MRS_zlat.eps>
 (epstopdf)             \includegraphics on input line 277.
@@ -1265,7 +1265,12 @@ Overfull \hbox (1.91785pt too wide) in paragraph at lines 277--278
 
 [4 <./figures/seds/gal4-eps-converted-to.pdf> <./figures/seds/gal14-eps-convert
 ed-to.pdf> <./figures/seds/gal32-eps-converted-to.pdf>]
-Underfull \hbox (badness 1107) in paragraph at lines 349--350
+Overfull \hbox (68.63228pt too wide) in paragraph at lines 289--331
+ [] 
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 363--364
 \OT1/cmr/m/n/9 This pub-li-ca-tion has been made pos-si-ble by the par-
  []
 
@@ -1279,23 +1284,36 @@ ol/10-eps-converted-to.pdf> <./figures/3col/11-eps-converted-to.pdf> <./figures
 res/3col/14-eps-converted-to.pdf> <./figures/3col/15-eps-converted-to.pdf> <./f
 igures/3col/16-eps-converted-to.pdf> <./figures/3col/17-eps-converted-to.pdf> <
 ./figures/3col/18-eps-converted-to.pdf> <./figures/3col/19-eps-converted-to.pdf
-> <./figures/3col/20-eps-converted-to.pdf>]) [6
-
- <./figures/3col/21-eps-converted-to.pdf> <./figures/3col/22-eps-converted-to.p
-df> <./figures/3col/23-eps-converted-to.pdf> <./figures/3col/24-eps-converted-t
-o.pdf> <./figures/3col/25-eps-converted-to.pdf> <./figures/3col/26-eps-converte
-d-to.pdf> <./figures/3col/27-eps-converted-to.pdf> <./figures/3col/28-eps-conve
-rted-to.pdf> <./figures/3col/29-eps-converted-to.pdf> <./figures/3col/30-eps-co
-nverted-to.pdf> <./figures/3col/31-eps-converted-to.pdf> <./figures/3col/32-eps
--converted-to.pdf> <./figures/3col/33-eps-converted-to.pdf> <./figures/3col/34-
-eps-converted-to.pdf> <./figures/3col/35-eps-converted-to.pdf> <./figures/3col/
-36-eps-converted-to.pdf> <./figures/3col/37-eps-converted-to.pdf> <./figures/3c
-ol/38-eps-converted-to.pdf> <./figures/3col/39-eps-converted-to.pdf> <./figures
-/3col/40-eps-converted-to.pdf> <./figures/3col/41-eps-converted-to.pdf> <./figu
-res/3col/42-eps-converted-to.pdf> <./figures/3col/43-eps-converted-to.pdf>]
+> <./figures/3col/20-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
+) [6 <./figures/3col/21-eps-converted-to.pdf> <./figures/3col/22-eps-converted-
+to.pdf> <./figures/3col/23-eps-converted-to.pdf> <./figures/3col/24-eps-convert
+ed-to.pdf> <./figures/3col/25-eps-converted-to.pdf> <./figures/3col/26-eps-conv
+erted-to.pdf> <./figures/3col/27-eps-converted-to.pdf> <./figures/3col/28-eps-c
+onverted-to.pdf> <./figures/3col/29-eps-converted-to.pdf> <./figures/3col/30-ep
+s-converted-to.pdf> <./figures/3col/31-eps-converted-to.pdf> <./figures/3col/32
+-eps-converted-to.pdf> <./figures/3col/33-eps-converted-to.pdf> <./figures/3col
+/34-eps-converted-to.pdf> <./figures/3col/35-eps-converted-to.pdf> <./figures/3
+col/36-eps-converted-to.pdf> <./figures/3col/37-eps-converted-to.pdf> <./figure
+s/3col/38-eps-converted-to.pdf> <./figures/3col/39-eps-converted-to.pdf> <./fig
+ures/3col/40-eps-converted-to.pdf> <./figures/3col/41-eps-converted-to.pdf> <./
+figures/3col/42-eps-converted-to.pdf> <./figures/3col/43-eps-converted-to.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./figures/seds/gal27-eps-converted-to.pdf> <./figures/seds/gal33-eps-conve
+rted-to.pdf> <./figures/seds/gal40-eps-converted-to.pdf> <./figures/polar-eps-c
+onverted-to.pdf> <./figures/2MRS_latlon-eps-converted-to.pdf> <./figures/2MRS_z
+lon-eps-converted-to.pdf> <./figures/2MRS_zlat-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8
+
+]
 Package epstopdf Info: Source file: <./figures/cutouts/1.eps>
 (epstopdf)                    date: 2013-01-22 15:36:55
 (epstopdf)                    size: 248826 bytes
@@ -1304,15 +1322,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/1.eps>
 (epstopdf)                    size: 8442 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/1-eps-co
 nverted-to.pdf ./figures/cutouts/1.eps>
-(epstopdf)             \includegraphics on input line 362.
+(epstopdf)             \includegraphics on input line 376.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/1-eps-converted-to.pdf, id=262, 200.75pt x 200.75pt>
+<./figures/cutouts/1-eps-converted-to.pdf, id=312, 200.75pt x 200.75pt>
 File: ./figures/cutouts/1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/1-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/1-eps-converted-to.pdf used on input
- line 362.
+ line 376.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/1.eps>
 (epstopdf)                    date: 2013-01-22 15:28:20
@@ -1322,15 +1340,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/1.eps>
 (epstopdf)                    size: 15437 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/1-eps-conv
 erted-to.pdf ./figures/IRAC4/1.eps>
-(epstopdf)             \includegraphics on input line 363.
+(epstopdf)             \includegraphics on input line 377.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/1-eps-converted-to.pdf, id=263, 168.63pt x 168.63pt>
+<./figures/IRAC4/1-eps-converted-to.pdf, id=313, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/1-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/1-eps-converted-to.pdf used on input l
-ine 363.
+ine 377.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/1.eps>
 (epstopdf)                    date: 2013-01-22 14:44:09
@@ -1340,31 +1358,31 @@ Package epstopdf Info: Source file: <./figures/3col/1.eps>
 (epstopdf)                    size: 39898 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/1-eps-conve
 rted-to.pdf ./figures/3col/1.eps>
-(epstopdf)             \includegraphics on input line 364.
+(epstopdf)             \includegraphics on input line 378.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/1-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/1-eps-converted-to.pdf used on input li
-ne 364.
+ne 378.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal1.eps>
-(epstopdf)                    date: 2013-01-22 16:20:40
-(epstopdf)                    size: 23729 bytes
+(epstopdf)                    date: 2013-02-15 12:03:34
+(epstopdf)                    size: 24055 bytes
 (epstopdf)             Output file: <./figures/seds/gal1-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-01-24 09:31:29
-(epstopdf)                    size: 11179 bytes
+(epstopdf)                    date: 2013-02-15 12:05:06
+(epstopdf)                    size: 11219 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal1-eps-co
 nverted-to.pdf ./figures/seds/gal1.eps>
-(epstopdf)             \includegraphics on input line 365.
+(epstopdf)             \includegraphics on input line 379.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/seds/gal1-eps-converted-to.pdf, id=264, 361.35pt x 252.945pt>
+<./figures/seds/gal1-eps-converted-to.pdf, id=314, 361.35pt x 252.945pt>
 File: ./figures/seds/gal1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal1-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal1-eps-converted-to.pdf used on input
- line 365.
+ line 379.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/2.eps>
 (epstopdf)                    date: 2013-01-22 15:36:55
@@ -1374,15 +1392,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/2.eps>
 (epstopdf)                    size: 8866 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/2-eps-co
 nverted-to.pdf ./figures/cutouts/2.eps>
-(epstopdf)             \includegraphics on input line 373.
+(epstopdf)             \includegraphics on input line 387.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/2-eps-converted-to.pdf, id=265, 200.75pt x 200.75pt>
+<./figures/cutouts/2-eps-converted-to.pdf, id=315, 200.75pt x 200.75pt>
 File: ./figures/cutouts/2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/2-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/2-eps-converted-to.pdf used on input
- line 373.
+ line 387.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/2.eps>
 (epstopdf)                    date: 2013-01-22 15:28:20
@@ -1392,15 +1410,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/2.eps>
 (epstopdf)                    size: 11963 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/2-eps-conv
 erted-to.pdf ./figures/IRAC4/2.eps>
-(epstopdf)             \includegraphics on input line 374.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/2-eps-converted-to.pdf, id=266, 168.63pt x 168.63pt>
+<./figures/IRAC4/2-eps-converted-to.pdf, id=316, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/2-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/2-eps-converted-to.pdf used on input l
-ine 374.
+ine 388.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/2.eps>
 (epstopdf)                    date: 2013-01-22 14:44:09
@@ -1410,31 +1428,101 @@ Package epstopdf Info: Source file: <./figures/3col/2.eps>
 (epstopdf)                    size: 21932 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/2-eps-conve
 rted-to.pdf ./figures/3col/2.eps>
-(epstopdf)             \includegraphics on input line 375.
+(epstopdf)             \includegraphics on input line 389.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/2-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/2-eps-converted-to.pdf used on input li
-ne 375.
+ne 389.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal2.eps>
-(epstopdf)                    date: 2013-01-22 16:20:40
-(epstopdf)                    size: 23730 bytes
+(epstopdf)                    date: 2013-02-15 12:03:34
+(epstopdf)                    size: 24056 bytes
 (epstopdf)             Output file: <./figures/seds/gal2-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-01-24 09:31:37
-(epstopdf)                    size: 11177 bytes
+(epstopdf)                    date: 2013-02-15 12:05:07
+(epstopdf)                    size: 11215 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal2-eps-co
 nverted-to.pdf ./figures/seds/gal2.eps>
-(epstopdf)             \includegraphics on input line 376.
+(epstopdf)             \includegraphics on input line 390.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/seds/gal2-eps-converted-to.pdf, id=267, 361.35pt x 252.945pt>
+<./figures/seds/gal2-eps-converted-to.pdf, id=317, 361.35pt x 252.945pt>
 File: ./figures/seds/gal2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal2-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal2-eps-converted-to.pdf used on input
- line 376.
+ line 390.
+(pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
+Package epstopdf Info: Source file: <./figures/cutouts/3.eps>
+(epstopdf)                    date: 2013-01-22 15:36:56
+(epstopdf)                    size: 248826 bytes
+(epstopdf)             Output file: <./figures/cutouts/3-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 11:52:48
+(epstopdf)                    size: 11021 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/3-eps-co
+nverted-to.pdf ./figures/cutouts/3.eps>
+(epstopdf)             \includegraphics on input line 398.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/cutouts/3-eps-converted-to.pdf, id=318, 200.75pt x 200.75pt>
+File: ./figures/cutouts/3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/cutouts/3-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/cutouts/3-eps-converted-to.pdf used on input
+ line 398.
+(pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
+Package epstopdf Info: Source file: <./figures/IRAC4/3.eps>
+(epstopdf)                    date: 2013-01-22 15:28:20
+(epstopdf)                    size: 177263 bytes
+(epstopdf)             Output file: <./figures/IRAC4/3-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 11:52:49
+(epstopdf)                    size: 10911 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/3-eps-conv
+erted-to.pdf ./figures/IRAC4/3.eps>
+(epstopdf)             \includegraphics on input line 399.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/IRAC4/3-eps-converted-to.pdf, id=319, 168.63pt x 168.63pt>
+File: ./figures/IRAC4/3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/IRAC4/3-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/IRAC4/3-eps-converted-to.pdf used on input l
+ine 399.
+(pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
+Package epstopdf Info: Source file: <./figures/3col/3.eps>
+(epstopdf)                    date: 2013-01-22 14:44:10
+(epstopdf)                    size: 552720 bytes
+(epstopdf)             Output file: <./figures/3col/3-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-24 09:29:02
+(epstopdf)                    size: 12186 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/3col/3-eps-conve
+rted-to.pdf ./figures/3col/3.eps>
+(epstopdf)             \includegraphics on input line 400.
+Package epstopdf Info: Output file is already uptodate.
+File: ./figures/3col/3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/3col/3-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/3col/3-eps-converted-to.pdf used on input li
+ne 400.
+(pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
+Package epstopdf Info: Source file: <./figures/seds/gal3.eps>
+(epstopdf)                    date: 2013-02-15 12:03:35
+(epstopdf)                    size: 24055 bytes
+(epstopdf)             Output file: <./figures/seds/gal3-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 12:05:08
+(epstopdf)                    size: 11212 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal3-eps-co
+nverted-to.pdf ./figures/seds/gal3.eps>
+(epstopdf)             \includegraphics on input line 401.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/seds/gal3-eps-converted-to.pdf, id=320, 361.35pt x 252.945pt>
+File: ./figures/seds/gal3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/seds/gal3-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/seds/gal3-eps-converted-to.pdf used on input
+ line 401.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/4.eps>
 (epstopdf)                    date: 2013-01-22 15:36:56
@@ -1444,15 +1532,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/4.eps>
 (epstopdf)                    size: 8006 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/4-eps-co
 nverted-to.pdf ./figures/cutouts/4.eps>
-(epstopdf)             \includegraphics on input line 384.
+(epstopdf)             \includegraphics on input line 409.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/4-eps-converted-to.pdf, id=268, 200.75pt x 200.75pt>
+<./figures/cutouts/4-eps-converted-to.pdf, id=321, 200.75pt x 200.75pt>
 File: ./figures/cutouts/4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/4-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/4-eps-converted-to.pdf used on input
- line 384.
+ line 409.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/4.eps>
 (epstopdf)                    date: 2013-01-22 15:28:21
@@ -1462,15 +1550,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/4.eps>
 (epstopdf)                    size: 17985 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/4-eps-conv
 erted-to.pdf ./figures/IRAC4/4.eps>
-(epstopdf)             \includegraphics on input line 385.
+(epstopdf)             \includegraphics on input line 410.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/4-eps-converted-to.pdf, id=269, 168.63pt x 168.63pt>
+<./figures/IRAC4/4-eps-converted-to.pdf, id=322, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/4-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/4-eps-converted-to.pdf used on input l
-ine 385.
+ine 410.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/4.eps>
 (epstopdf)                    date: 2013-01-22 14:44:10
@@ -1480,29 +1568,101 @@ Package epstopdf Info: Source file: <./figures/3col/4.eps>
 (epstopdf)                    size: 37587 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/4-eps-conve
 rted-to.pdf ./figures/3col/4.eps>
-(epstopdf)             \includegraphics on input line 386.
+(epstopdf)             \includegraphics on input line 411.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/4-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/4-eps-converted-to.pdf used on input li
-ne 386.
+ne 411.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal4.eps>
-(epstopdf)                    date: 2013-01-22 16:20:40
-(epstopdf)                    size: 23730 bytes
+(epstopdf)                    date: 2013-02-15 12:03:35
+(epstopdf)                    size: 24056 bytes
 (epstopdf)             Output file: <./figures/seds/gal4-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-02-14 15:56:10
-(epstopdf)                    size: 11176 bytes
+(epstopdf)                    date: 2013-02-15 12:05:00
+(epstopdf)                    size: 11216 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal4-eps-co
 nverted-to.pdf ./figures/seds/gal4.eps>
-(epstopdf)             \includegraphics on input line 387.
+(epstopdf)             \includegraphics on input line 412.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/seds/gal4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal4-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal4-eps-converted-to.pdf used on input
- line 387.
+ line 412.
+(pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
+Package epstopdf Info: Source file: <./figures/cutouts/10.eps>
+(epstopdf)                    date: 2013-01-22 15:36:55
+(epstopdf)                    size: 248827 bytes
+(epstopdf)             Output file: <./figures/cutouts/10-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 11:52:51
+(epstopdf)                    size: 7408 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/10-eps-c
+onverted-to.pdf ./figures/cutouts/10.eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/cutouts/10-eps-converted-to.pdf, id=323, 200.75pt x 200.75pt>
+File: ./figures/cutouts/10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/cutouts/10-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/cutouts/10-eps-converted-to.pdf used on inpu
+t line 420.
+(pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
+Package epstopdf Info: Source file: <./figures/IRAC4/10.eps>
+(epstopdf)                    date: 2013-01-22 15:28:20
+(epstopdf)                    size: 177264 bytes
+(epstopdf)             Output file: <./figures/IRAC4/10-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 11:52:52
+(epstopdf)                    size: 19171 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/10-eps-con
+verted-to.pdf ./figures/IRAC4/10.eps>
+(epstopdf)             \includegraphics on input line 421.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/IRAC4/10-eps-converted-to.pdf, id=324, 168.63pt x 168.63pt>
+File: ./figures/IRAC4/10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/IRAC4/10-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/IRAC4/10-eps-converted-to.pdf used on input 
+line 421.
+(pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
+Package epstopdf Info: Source file: <./figures/3col/10.eps>
+(epstopdf)                    date: 2013-01-22 14:44:12
+(epstopdf)                    size: 552719 bytes
+(epstopdf)             Output file: <./figures/3col/10-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-24 09:29:20
+(epstopdf)                    size: 31226 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/3col/10-eps-conv
+erted-to.pdf ./figures/3col/10.eps>
+(epstopdf)             \includegraphics on input line 422.
+Package epstopdf Info: Output file is already uptodate.
+File: ./figures/3col/10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/3col/10-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/3col/10-eps-converted-to.pdf used on input l
+ine 422.
+(pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
+Package epstopdf Info: Source file: <./figures/seds/gal10.eps>
+(epstopdf)                    date: 2013-02-15 12:03:35
+(epstopdf)                    size: 24057 bytes
+(epstopdf)             Output file: <./figures/seds/gal10-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 12:05:09
+(epstopdf)                    size: 11223 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal10-eps-c
+onverted-to.pdf ./figures/seds/gal10.eps>
+(epstopdf)             \includegraphics on input line 423.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/seds/gal10-eps-converted-to.pdf, id=325, 361.35pt x 252.945pt>
+File: ./figures/seds/gal10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/seds/gal10-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/seds/gal10-eps-converted-to.pdf used on inpu
+t line 423.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/14.eps>
 (epstopdf)                    date: 2013-01-22 15:36:55
@@ -1513,15 +1673,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/14.eps>
 (epstopdf)                    size: 8949 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/14-eps-c
 onverted-to.pdf ./figures/cutouts/14.eps>
-(epstopdf)             \includegraphics on input line 395.
+(epstopdf)             \includegraphics on input line 431.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/14-eps-converted-to.pdf, id=270, 200.75pt x 200.75pt>
+<./figures/cutouts/14-eps-converted-to.pdf, id=326, 200.75pt x 200.75pt>
 File: ./figures/cutouts/14-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/14-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/14-eps-converted-to.pdf used on inpu
-t line 395.
+t line 431.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/14.eps>
 (epstopdf)                    date: 2013-01-22 15:28:20
@@ -1531,15 +1691,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/14.eps>
 (epstopdf)                    size: 13985 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/14-eps-con
 verted-to.pdf ./figures/IRAC4/14.eps>
-(epstopdf)             \includegraphics on input line 396.
+(epstopdf)             \includegraphics on input line 432.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/14-eps-converted-to.pdf, id=271, 168.63pt x 168.63pt>
+<./figures/IRAC4/14-eps-converted-to.pdf, id=327, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/14-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/14-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/14-eps-converted-to.pdf used on input 
-line 396.
+line 432.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/14.eps>
 (epstopdf)                    date: 2013-01-22 14:44:14
@@ -1549,30 +1709,246 @@ Package epstopdf Info: Source file: <./figures/3col/14.eps>
 (epstopdf)                    size: 25981 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/14-eps-conv
 erted-to.pdf ./figures/3col/14.eps>
-(epstopdf)             \includegraphics on input line 397.
+(epstopdf)             \includegraphics on input line 433.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/14-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/14-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/14-eps-converted-to.pdf used on input l
-ine 397.
+ine 433.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal14.eps>
-(epstopdf)                    date: 2013-01-22 16:20:41
-(epstopdf)                    size: 23732 bytes
+(epstopdf)                    date: 2013-02-15 12:03:36
+(epstopdf)                    size: 24058 bytes
 (epstopdf)             Output file: <./figures/seds/gal14-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:47:18
-(epstopdf)                    size: 11177 bytes
+(epstopdf)                    date: 2013-02-15 12:05:00
+(epstopdf)                    size: 11217 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal14-eps-c
 onverted-to.pdf ./figures/seds/gal14.eps>
-(epstopdf)             \includegraphics on input line 398.
+(epstopdf)             \includegraphics on input line 434.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/seds/gal14-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal14-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal14-eps-converted-to.pdf used on inpu
-t line 398.
+t line 434.
+(pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
+Package epstopdf Info: Source file: <./figures/cutouts/18.eps>
+(epstopdf)                    date: 2013-01-22 15:36:55
+(epstopdf)                    size: 160104 bytes
+(epstopdf)             Output file: <./figures/cutouts/18-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 11:52:54
+(epstopdf)                    size: 7853 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/18-eps-c
+onverted-to.pdf ./figures/cutouts/18.eps>
+(epstopdf)             \includegraphics on input line 442.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/cutouts/18-eps-converted-to.pdf, id=328, 200.75pt x 127.47626pt>
+File: ./figures/cutouts/18-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/cutouts/18-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/cutouts/18-eps-converted-to.pdf used on inpu
+t line 442.
+(pdftex.def)             Requested size: 110.88062pt x 70.4117pt.
+Package epstopdf Info: Source file: <./figures/IRAC4/18.eps>
+(epstopdf)                    date: 2013-01-22 15:28:20
+(epstopdf)                    size: 177264 bytes
+(epstopdf)             Output file: <./figures/IRAC4/18-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 11:52:55
+(epstopdf)                    size: 17318 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/18-eps-con
+verted-to.pdf ./figures/IRAC4/18.eps>
+(epstopdf)             \includegraphics on input line 443.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/IRAC4/18-eps-converted-to.pdf, id=329, 168.63pt x 168.63pt>
+File: ./figures/IRAC4/18-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/IRAC4/18-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/IRAC4/18-eps-converted-to.pdf used on input 
+line 443.
+(pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
+Package epstopdf Info: Source file: <./figures/3col/18.eps>
+(epstopdf)                    date: 2013-01-22 14:44:16
+(epstopdf)                    size: 552720 bytes
+(epstopdf)             Output file: <./figures/3col/18-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-24 09:29:40
+(epstopdf)                    size: 42279 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/3col/18-eps-conv
+erted-to.pdf ./figures/3col/18.eps>
+(epstopdf)             \includegraphics on input line 444.
+Package epstopdf Info: Output file is already uptodate.
+File: ./figures/3col/18-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/3col/18-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/3col/18-eps-converted-to.pdf used on input l
+ine 444.
+(pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
+Package epstopdf Info: Source file: <./figures/seds/gal18.eps>
+(epstopdf)                    date: 2013-02-15 12:03:36
+(epstopdf)                    size: 24058 bytes
+(epstopdf)             Output file: <./figures/seds/gal18-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 12:05:10
+(epstopdf)                    size: 11228 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal18-eps-c
+onverted-to.pdf ./figures/seds/gal18.eps>
+(epstopdf)             \includegraphics on input line 445.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/seds/gal18-eps-converted-to.pdf, id=330, 361.35pt x 252.945pt>
+File: ./figures/seds/gal18-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/seds/gal18-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/seds/gal18-eps-converted-to.pdf used on inpu
+t line 445.
+(pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
+Package epstopdf Info: Source file: <./figures/cutouts/22.eps>
+(epstopdf)                    date: 2013-01-22 15:36:55
+(epstopdf)                    size: 248827 bytes
+(epstopdf)             Output file: <./figures/cutouts/22-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 11:52:57
+(epstopdf)                    size: 9187 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/22-eps-c
+onverted-to.pdf ./figures/cutouts/22.eps>
+(epstopdf)             \includegraphics on input line 453.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/cutouts/22-eps-converted-to.pdf, id=331, 200.75pt x 200.75pt>
+File: ./figures/cutouts/22-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/cutouts/22-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/cutouts/22-eps-converted-to.pdf used on inpu
+t line 453.
+(pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
+Package epstopdf Info: Source file: <./figures/IRAC4/22.eps>
+(epstopdf)                    date: 2013-01-22 15:28:20
+(epstopdf)                    size: 177264 bytes
+(epstopdf)             Output file: <./figures/IRAC4/22-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 11:52:58
+(epstopdf)                    size: 20772 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/22-eps-con
+verted-to.pdf ./figures/IRAC4/22.eps>
+(epstopdf)             \includegraphics on input line 454.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/IRAC4/22-eps-converted-to.pdf, id=332, 168.63pt x 168.63pt>
+File: ./figures/IRAC4/22-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/IRAC4/22-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/IRAC4/22-eps-converted-to.pdf used on input 
+line 454.
+(pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
+Package epstopdf Info: Source file: <./figures/3col/22.eps>
+(epstopdf)                    date: 2013-01-22 14:44:17
+(epstopdf)                    size: 552720 bytes
+(epstopdf)             Output file: <./figures/3col/22-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-24 09:29:58
+(epstopdf)                    size: 41785 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/3col/22-eps-conv
+erted-to.pdf ./figures/3col/22.eps>
+(epstopdf)             \includegraphics on input line 455.
+Package epstopdf Info: Output file is already uptodate.
+File: ./figures/3col/22-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/3col/22-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/3col/22-eps-converted-to.pdf used on input l
+ine 455.
+(pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
+Package epstopdf Info: Source file: <./figures/seds/gal22.eps>
+(epstopdf)                    date: 2013-02-15 12:03:37
+(epstopdf)                    size: 24058 bytes
+(epstopdf)             Output file: <./figures/seds/gal22-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 12:05:11
+(epstopdf)                    size: 11215 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal22-eps-c
+onverted-to.pdf ./figures/seds/gal22.eps>
+(epstopdf)             \includegraphics on input line 456.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/seds/gal22-eps-converted-to.pdf, id=333, 361.35pt x 252.945pt>
+File: ./figures/seds/gal22-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/seds/gal22-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/seds/gal22-eps-converted-to.pdf used on inpu
+t line 456.
+(pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
+Package epstopdf Info: Source file: <./figures/cutouts/25.eps>
+(epstopdf)                    date: 2013-01-22 15:36:55
+(epstopdf)                    size: 96899 bytes
+(epstopdf)             Output file: <./figures/cutouts/25-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 11:53:00
+(epstopdf)                    size: 5803 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/25-eps-c
+onverted-to.pdf ./figures/cutouts/25.eps>
+(epstopdf)             \includegraphics on input line 464.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/cutouts/25-eps-converted-to.pdf, id=334, 200.75pt x 75.28125pt>
+File: ./figures/cutouts/25-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/cutouts/25-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/cutouts/25-eps-converted-to.pdf used on inpu
+t line 464.
+(pdftex.def)             Requested size: 110.88062pt x 41.5817pt.
+Package epstopdf Info: Source file: <./figures/IRAC4/25.eps>
+(epstopdf)                    date: 2013-01-22 15:28:20
+(epstopdf)                    size: 177264 bytes
+(epstopdf)             Output file: <./figures/IRAC4/25-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 11:53:01
+(epstopdf)                    size: 14594 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/25-eps-con
+verted-to.pdf ./figures/IRAC4/25.eps>
+(epstopdf)             \includegraphics on input line 465.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/IRAC4/25-eps-converted-to.pdf, id=335, 168.63pt x 168.63pt>
+File: ./figures/IRAC4/25-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/IRAC4/25-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/IRAC4/25-eps-converted-to.pdf used on input 
+line 465.
+(pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
+Package epstopdf Info: Source file: <./figures/3col/25.eps>
+(epstopdf)                    date: 2013-01-22 14:44:19
+(epstopdf)                    size: 552720 bytes
+(epstopdf)             Output file: <./figures/3col/25-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-24 09:30:06
+(epstopdf)                    size: 7160 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/3col/25-eps-conv
+erted-to.pdf ./figures/3col/25.eps>
+(epstopdf)             \includegraphics on input line 466.
+Package epstopdf Info: Output file is already uptodate.
+File: ./figures/3col/25-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/3col/25-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/3col/25-eps-converted-to.pdf used on input l
+ine 466.
+(pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
+Package epstopdf Info: Source file: <./figures/seds/gal25.eps>
+(epstopdf)                    date: 2013-02-15 12:03:37
+(epstopdf)                    size: 24040 bytes
+(epstopdf)             Output file: <./figures/seds/gal25-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 12:05:12
+(epstopdf)                    size: 11159 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal25-eps-c
+onverted-to.pdf ./figures/seds/gal25.eps>
+(epstopdf)             \includegraphics on input line 467.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/seds/gal25-eps-converted-to.pdf, id=336, 361.35pt x 252.945pt>
+File: ./figures/seds/gal25-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/seds/gal25-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/seds/gal25-eps-converted-to.pdf used on inpu
+t line 467.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/26.eps>
 (epstopdf)                    date: 2013-01-22 15:36:55
@@ -1583,15 +1959,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/26.eps>
 (epstopdf)                    size: 9465 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/26-eps-c
 onverted-to.pdf ./figures/cutouts/26.eps>
-(epstopdf)             \includegraphics on input line 406.
+(epstopdf)             \includegraphics on input line 475.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/26-eps-converted-to.pdf, id=272, 200.75pt x 200.75pt>
+<./figures/cutouts/26-eps-converted-to.pdf, id=337, 200.75pt x 200.75pt>
 File: ./figures/cutouts/26-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/26-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/26-eps-converted-to.pdf used on inpu
-t line 406.
+t line 475.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/26.eps>
 (epstopdf)                    date: 2013-01-22 15:28:20
@@ -1601,15 +1977,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/26.eps>
 (epstopdf)                    size: 10535 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/26-eps-con
 verted-to.pdf ./figures/IRAC4/26.eps>
-(epstopdf)             \includegraphics on input line 407.
+(epstopdf)             \includegraphics on input line 476.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/26-eps-converted-to.pdf, id=273, 168.63pt x 168.63pt>
+<./figures/IRAC4/26-eps-converted-to.pdf, id=338, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/26-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/26-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/26-eps-converted-to.pdf used on input 
-line 407.
+line 476.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/26.eps>
 (epstopdf)                    date: 2013-01-22 14:44:20
@@ -1619,32 +1995,32 @@ Package epstopdf Info: Source file: <./figures/3col/26.eps>
 (epstopdf)                    size: 22701 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/26-eps-conv
 erted-to.pdf ./figures/3col/26.eps>
-(epstopdf)             \includegraphics on input line 408.
+(epstopdf)             \includegraphics on input line 477.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/26-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/26-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/26-eps-converted-to.pdf used on input l
-ine 408.
+ine 477.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal26.eps>
-(epstopdf)                    date: 2013-01-22 16:20:43
-(epstopdf)                    size: 23732 bytes
+(epstopdf)                    date: 2013-02-15 12:03:38
+(epstopdf)                    size: 24058 bytes
 (epstopdf)             Output file: <./figures/seds/gal26-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:47:21
-(epstopdf)                    size: 11180 bytes
+(epstopdf)                    date: 2013-02-15 12:05:13
+(epstopdf)                    size: 11219 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal26-eps-c
 onverted-to.pdf ./figures/seds/gal26.eps>
-(epstopdf)             \includegraphics on input line 409.
+(epstopdf)             \includegraphics on input line 478.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/seds/gal26-eps-converted-to.pdf, id=274, 361.35pt x 252.945pt>
+<./figures/seds/gal26-eps-converted-to.pdf, id=339, 361.35pt x 252.945pt>
 File: ./figures/seds/gal26-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal26-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal26-eps-converted-to.pdf used on inpu
-t line 409.
+t line 478.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/27.eps>
 (epstopdf)                    date: 2013-01-22 15:36:55
@@ -1655,15 +2031,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/27.eps>
 (epstopdf)                    size: 9989 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/27-eps-c
 onverted-to.pdf ./figures/cutouts/27.eps>
-(epstopdf)             \includegraphics on input line 417.
+(epstopdf)             \includegraphics on input line 486.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/27-eps-converted-to.pdf, id=275, 200.75pt x 200.75pt>
+<./figures/cutouts/27-eps-converted-to.pdf, id=340, 200.75pt x 200.75pt>
 File: ./figures/cutouts/27-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/27-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/27-eps-converted-to.pdf used on inpu
-t line 417.
+t line 486.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/27.eps>
 (epstopdf)                    date: 2013-01-22 15:28:20
@@ -1673,15 +2049,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/27.eps>
 (epstopdf)                    size: 16902 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/27-eps-con
 verted-to.pdf ./figures/IRAC4/27.eps>
-(epstopdf)             \includegraphics on input line 418.
+(epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/27-eps-converted-to.pdf, id=276, 168.63pt x 168.63pt>
+<./figures/IRAC4/27-eps-converted-to.pdf, id=341, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/27-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/27-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/27-eps-converted-to.pdf used on input 
-line 418.
+line 487.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/27.eps>
 (epstopdf)                    date: 2013-01-22 14:44:20
@@ -1691,30 +2067,30 @@ Package epstopdf Info: Source file: <./figures/3col/27.eps>
 (epstopdf)                    size: 23013 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/27-eps-conv
 erted-to.pdf ./figures/3col/27.eps>
-(epstopdf)             \includegraphics on input line 419.
+(epstopdf)             \includegraphics on input line 488.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/27-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/27-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/27-eps-converted-to.pdf used on input l
-ine 419.
+ine 488.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal27.eps>
-(epstopdf)                    date: 2013-01-22 16:20:43
-(epstopdf)                    size: 23731 bytes
+(epstopdf)                    date: 2013-02-15 12:03:38
+(epstopdf)                    size: 24057 bytes
 (epstopdf)             Output file: <./figures/seds/gal27-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:56:14
-(epstopdf)                    size: 11176 bytes
+(epstopdf)                    date: 2013-02-15 12:05:02
+(epstopdf)                    size: 11215 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal27-eps-c
 onverted-to.pdf ./figures/seds/gal27.eps>
-(epstopdf)             \includegraphics on input line 420.
+(epstopdf)             \includegraphics on input line 489.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/seds/gal27-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal27-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal27-eps-converted-to.pdf used on inpu
-t line 420.
+t line 489.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/32.eps>
 (epstopdf)                    date: 2013-01-22 15:36:56
@@ -1725,15 +2101,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/32.eps>
 (epstopdf)                    size: 9291 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/32-eps-c
 onverted-to.pdf ./figures/cutouts/32.eps>
-(epstopdf)             \includegraphics on input line 428.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/32-eps-converted-to.pdf, id=277, 200.75pt x 200.75pt>
+<./figures/cutouts/32-eps-converted-to.pdf, id=342, 200.75pt x 200.75pt>
 File: ./figures/cutouts/32-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/32-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/32-eps-converted-to.pdf used on inpu
-t line 428.
+t line 497.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/32.eps>
 (epstopdf)                    date: 2013-01-22 15:28:20
@@ -1743,15 +2119,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/32.eps>
 (epstopdf)                    size: 14310 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/32-eps-con
 verted-to.pdf ./figures/IRAC4/32.eps>
-(epstopdf)             \includegraphics on input line 429.
+(epstopdf)             \includegraphics on input line 498.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/32-eps-converted-to.pdf, id=278, 168.63pt x 168.63pt>
+<./figures/IRAC4/32-eps-converted-to.pdf, id=343, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/32-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/32-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/32-eps-converted-to.pdf used on input 
-line 429.
+line 498.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/32.eps>
 (epstopdf)                    date: 2013-01-22 14:44:22
@@ -1761,30 +2137,30 @@ Package epstopdf Info: Source file: <./figures/3col/32.eps>
 (epstopdf)                    size: 24572 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/32-eps-conv
 erted-to.pdf ./figures/3col/32.eps>
-(epstopdf)             \includegraphics on input line 430.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/32-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/32-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/32-eps-converted-to.pdf used on input l
-ine 430.
+ine 499.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal32.eps>
-(epstopdf)                    date: 2013-01-22 16:20:44
-(epstopdf)                    size: 23731 bytes
+(epstopdf)                    date: 2013-02-15 12:03:39
+(epstopdf)                    size: 24057 bytes
 (epstopdf)             Output file: <./figures/seds/gal32-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:47:24
-(epstopdf)                    size: 11177 bytes
+(epstopdf)                    date: 2013-02-15 12:05:01
+(epstopdf)                    size: 11216 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal32-eps-c
 onverted-to.pdf ./figures/seds/gal32.eps>
-(epstopdf)             \includegraphics on input line 431.
+(epstopdf)             \includegraphics on input line 500.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/seds/gal32-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal32-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal32-eps-converted-to.pdf used on inpu
-t line 431.
+t line 500.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/33.eps>
 (epstopdf)                    date: 2013-01-22 15:36:56
@@ -1795,15 +2171,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/33.eps>
 (epstopdf)                    size: 3254 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/33-eps-c
 onverted-to.pdf ./figures/cutouts/33.eps>
-(epstopdf)             \includegraphics on input line 439.
+(epstopdf)             \includegraphics on input line 508.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/33-eps-converted-to.pdf, id=279, 200.75pt x 200.75pt>
+<./figures/cutouts/33-eps-converted-to.pdf, id=344, 200.75pt x 200.75pt>
 File: ./figures/cutouts/33-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/33-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/33-eps-converted-to.pdf used on inpu
-t line 439.
+t line 508.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/33.eps>
 (epstopdf)                    date: 2013-01-22 15:28:20
@@ -1813,15 +2189,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/33.eps>
 (epstopdf)                    size: 16276 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/33-eps-con
 verted-to.pdf ./figures/IRAC4/33.eps>
-(epstopdf)             \includegraphics on input line 440.
+(epstopdf)             \includegraphics on input line 509.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/33-eps-converted-to.pdf, id=280, 168.63pt x 168.63pt>
+<./figures/IRAC4/33-eps-converted-to.pdf, id=345, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/33-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/33-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/33-eps-converted-to.pdf used on input 
-line 440.
+line 509.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/33.eps>
 (epstopdf)                    date: 2013-01-22 14:44:22
@@ -1831,30 +2207,102 @@ Package epstopdf Info: Source file: <./figures/3col/33.eps>
 (epstopdf)                    size: 39274 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/33-eps-conv
 erted-to.pdf ./figures/3col/33.eps>
-(epstopdf)             \includegraphics on input line 441.
+(epstopdf)             \includegraphics on input line 510.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/33-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/33-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/33-eps-converted-to.pdf used on input l
-ine 441.
+ine 510.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal33.eps>
-(epstopdf)                    date: 2013-01-22 16:20:44
-(epstopdf)                    size: 23731 bytes
+(epstopdf)                    date: 2013-02-15 12:03:39
+(epstopdf)                    size: 24057 bytes
 (epstopdf)             Output file: <./figures/seds/gal33-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:56:17
-(epstopdf)                    size: 11183 bytes
+(epstopdf)                    date: 2013-02-15 12:05:03
+(epstopdf)                    size: 11222 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal33-eps-c
 onverted-to.pdf ./figures/seds/gal33.eps>
-(epstopdf)             \includegraphics on input line 442.
+(epstopdf)             \includegraphics on input line 511.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/seds/gal33-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal33-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal33-eps-converted-to.pdf used on inpu
-t line 442.
+t line 511.
+(pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
+Package epstopdf Info: Source file: <./figures/cutouts/37.eps>
+(epstopdf)                    date: 2013-01-22 15:36:56
+(epstopdf)                    size: 248827 bytes
+(epstopdf)             Output file: <./figures/cutouts/37-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 11:53:04
+(epstopdf)                    size: 6376 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/37-eps-c
+onverted-to.pdf ./figures/cutouts/37.eps>
+(epstopdf)             \includegraphics on input line 519.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/cutouts/37-eps-converted-to.pdf, id=346, 200.75pt x 200.75pt>
+File: ./figures/cutouts/37-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/cutouts/37-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/cutouts/37-eps-converted-to.pdf used on inpu
+t line 519.
+(pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
+Package epstopdf Info: Source file: <./figures/IRAC4/37.eps>
+(epstopdf)                    date: 2013-01-22 15:28:21
+(epstopdf)                    size: 177264 bytes
+(epstopdf)             Output file: <./figures/IRAC4/37-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-15 11:53:04
+(epstopdf)                    size: 11152 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/37-eps-con
+verted-to.pdf ./figures/IRAC4/37.eps>
+(epstopdf)             \includegraphics on input line 520.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/IRAC4/37-eps-converted-to.pdf, id=347, 168.63pt x 168.63pt>
+File: ./figures/IRAC4/37-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/IRAC4/37-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/IRAC4/37-eps-converted-to.pdf used on input 
+line 520.
+(pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
+Package epstopdf Info: Source file: <./figures/3col/37.eps>
+(epstopdf)                    date: 2013-01-22 14:44:24
+(epstopdf)                    size: 552720 bytes
+(epstopdf)             Output file: <./figures/3col/37-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-24 09:31:01
+(epstopdf)                    size: 28661 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/3col/37-eps-conv
+erted-to.pdf ./figures/3col/37.eps>
+(epstopdf)             \includegraphics on input line 521.
+Package epstopdf Info: Output file is already uptodate.
+File: ./figures/3col/37-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/3col/37-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/3col/37-eps-converted-to.pdf used on input l
+ine 521.
+(pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
+Package epstopdf Info: Source file: <./figures/seds/gal37.eps>
+(epstopdf)                    date: 2013-02-15 12:03:40
+(epstopdf)                    size: 24057 bytes
+(epstopdf)             Output file: <./figures/seds/gal37-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2013-02-15 12:05:14
+(epstopdf)                    size: 11213 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal37-eps-c
+onverted-to.pdf ./figures/seds/gal37.eps>
+(epstopdf)             \includegraphics on input line 522.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/seds/gal37-eps-converted-to.pdf, id=348, 361.35pt x 252.945pt>
+File: ./figures/seds/gal37-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./figures/seds/gal37-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/seds/gal37-eps-converted-to.pdf used on inpu
+t line 522.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/40.eps>
 (epstopdf)                    date: 2013-01-22 15:36:56
@@ -1865,15 +2313,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/40.eps>
 (epstopdf)                    size: 8193 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/40-eps-c
 onverted-to.pdf ./figures/cutouts/40.eps>
-(epstopdf)             \includegraphics on input line 450.
+(epstopdf)             \includegraphics on input line 530.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/40-eps-converted-to.pdf, id=281, 200.75pt x 200.75pt>
+<./figures/cutouts/40-eps-converted-to.pdf, id=349, 200.75pt x 200.75pt>
 File: ./figures/cutouts/40-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/40-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/40-eps-converted-to.pdf used on inpu
-t line 450.
+t line 530.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/40.eps>
 (epstopdf)                    date: 2013-01-22 15:28:21
@@ -1883,15 +2331,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/40.eps>
 (epstopdf)                    size: 14375 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/40-eps-con
 verted-to.pdf ./figures/IRAC4/40.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 531.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/40-eps-converted-to.pdf, id=282, 168.63pt x 168.63pt>
+<./figures/IRAC4/40-eps-converted-to.pdf, id=350, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/40-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/40-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/40-eps-converted-to.pdf used on input 
-line 451.
+line 531.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/40.eps>
 (epstopdf)                    date: 2013-01-22 14:44:26
@@ -1901,30 +2349,30 @@ Package epstopdf Info: Source file: <./figures/3col/40.eps>
 (epstopdf)                    size: 25117 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/40-eps-conv
 erted-to.pdf ./figures/3col/40.eps>
-(epstopdf)             \includegraphics on input line 452.
+(epstopdf)             \includegraphics on input line 532.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/40-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/40-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/40-eps-converted-to.pdf used on input l
-ine 452.
+ine 532.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal40.eps>
-(epstopdf)                    date: 2013-01-22 16:20:45
-(epstopdf)                    size: 23730 bytes
+(epstopdf)                    date: 2013-02-15 12:03:41
+(epstopdf)                    size: 24056 bytes
 (epstopdf)             Output file: <./figures/seds/gal40-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:56:20
-(epstopdf)                    size: 11183 bytes
+(epstopdf)                    date: 2013-02-15 12:05:04
+(epstopdf)                    size: 11223 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal40-eps-c
 onverted-to.pdf ./figures/seds/gal40.eps>
-(epstopdf)             \includegraphics on input line 453.
+(epstopdf)             \includegraphics on input line 533.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/seds/gal40-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal40-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal40-eps-converted-to.pdf used on inpu
-t line 453.
+t line 533.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
 Package epstopdf Info: Source file: <./figures/cutouts/43.eps>
 (epstopdf)                    date: 2013-01-22 15:36:56
@@ -1935,15 +2383,15 @@ Package epstopdf Info: Source file: <./figures/cutouts/43.eps>
 (epstopdf)                    size: 8776 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/cutouts/43-eps-c
 onverted-to.pdf ./figures/cutouts/43.eps>
-(epstopdf)             \includegraphics on input line 461.
+(epstopdf)             \includegraphics on input line 541.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/cutouts/43-eps-converted-to.pdf, id=283, 200.75pt x 200.75pt>
+<./figures/cutouts/43-eps-converted-to.pdf, id=351, 200.75pt x 200.75pt>
 File: ./figures/cutouts/43-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/cutouts/43-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/cutouts/43-eps-converted-to.pdf used on inpu
-t line 461.
+t line 541.
 (pdftex.def)             Requested size: 110.88062pt x 110.88457pt.
 Package epstopdf Info: Source file: <./figures/IRAC4/43.eps>
 (epstopdf)                    date: 2013-01-22 15:28:21
@@ -1953,15 +2401,15 @@ Package epstopdf Info: Source file: <./figures/IRAC4/43.eps>
 (epstopdf)                    size: 12196 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/IRAC4/43-eps-con
 verted-to.pdf ./figures/IRAC4/43.eps>
-(epstopdf)             \includegraphics on input line 462.
+(epstopdf)             \includegraphics on input line 542.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/IRAC4/43-eps-converted-to.pdf, id=284, 168.63pt x 168.63pt>
+<./figures/IRAC4/43-eps-converted-to.pdf, id=352, 168.63pt x 168.63pt>
 File: ./figures/IRAC4/43-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/IRAC4/43-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/IRAC4/43-eps-converted-to.pdf used on input 
-line 462.
+line 542.
 (pdftex.def)             Requested size: 110.88062pt x 110.88187pt.
 Package epstopdf Info: Source file: <./figures/3col/43.eps>
 (epstopdf)                    date: 2013-01-22 15:19:24
@@ -1971,106 +2419,110 @@ Package epstopdf Info: Source file: <./figures/3col/43.eps>
 (epstopdf)                    size: 22896 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/3col/43-eps-conv
 erted-to.pdf ./figures/3col/43.eps>
-(epstopdf)             \includegraphics on input line 463.
+(epstopdf)             \includegraphics on input line 543.
 Package epstopdf Info: Output file is already uptodate.
 File: ./figures/3col/43-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/3col/43-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/3col/43-eps-converted-to.pdf used on input l
-ine 463.
+ine 543.
 (pdftex.def)             Requested size: 110.88062pt x 110.8815pt.
 Package epstopdf Info: Source file: <./figures/seds/gal43.eps>
-(epstopdf)                    date: 2013-01-22 16:20:45
-(epstopdf)                    size: 23731 bytes
+(epstopdf)                    date: 2013-02-15 12:03:41
+(epstopdf)                    size: 24057 bytes
 (epstopdf)             Output file: <./figures/seds/gal43-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2013-02-14 15:38:31
-(epstopdf)                    size: 11174 bytes
+(epstopdf)                    date: 2013-02-15 12:05:15
+(epstopdf)                    size: 11214 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/seds/gal43-eps-c
 onverted-to.pdf ./figures/seds/gal43.eps>
-(epstopdf)             \includegraphics on input line 464.
+(epstopdf)             \includegraphics on input line 544.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/seds/gal43-eps-converted-to.pdf, id=285, 361.35pt x 252.945pt>
+<./figures/seds/gal43-eps-converted-to.pdf, id=353, 361.35pt x 252.945pt>
 File: ./figures/seds/gal43-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./figures/seds/gal43-eps-converted-to.pdf>
 Package pdftex.def Info: ./figures/seds/gal43-eps-converted-to.pdf used on inpu
-t line 464.
+t line 544.
 (pdftex.def)             Requested size: 161.28369pt x 112.89789pt.
+ [9
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./figures/cutouts/1-eps-converted-to.pdf> <./figures/IRAC4/1-eps-converte
+d-to.pdf> <./figures/seds/gal1-eps-converted-to.pdf> <./figures/cutouts/2-eps-c
+onverted-to.pdf> <./figures/IRAC4/2-eps-converted-to.pdf> <./figures/seds/gal2-
+eps-converted-to.pdf> <./figures/cutouts/3-eps-converted-to.pdf> <./figures/IRA
+C4/3-eps-converted-to.pdf> <./figures/seds/gal3-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./figures/cutouts/4-eps-converted-to.pdf> <./figures/IRAC4/4-eps-converte
+d-to.pdf> <./figures/cutouts/10-eps-converted-to.pdf> <./figures/IRAC4/10-eps-c
+onverted-to.pdf> <./figures/seds/gal10-eps-converted-to.pdf> <./figures/cutouts
+/14-eps-converted-to.pdf> <./figures/IRAC4/14-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <./figures/cutouts/18-eps-converted-to.pdf> <./figures/IRAC4/18-eps-conver
+ted-to.pdf> <./figures/seds/gal18-eps-converted-to.pdf> <./figures/cutouts/22-e
+ps-converted-to.pdf> <./figures/IRAC4/22-eps-converted-to.pdf> <./figures/seds/
+gal22-eps-converted-to.pdf> <./figures/cutouts/25-eps-converted-to.pdf> <./figu
+res/IRAC4/25-eps-converted-to.pdf> <./figures/seds/gal25-eps-converted-to.pdf>]
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8
-
- <./figures/seds/gal27-eps-converted-to.pdf> <./figures/seds/gal33-eps-converte
-d-to.pdf> <./figures/seds/gal40-eps-converted-to.pdf> <./figures/polar-eps-conv
-erted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9 <./figures/cutouts/1-eps-converted-to.pdf> <./figures/IRAC4/1-eps-converted
--to.pdf> <./figures/seds/gal1-eps-converted-to.pdf> <./figures/cutouts/2-eps-co
-nverted-to.pdf> <./figures/IRAC4/2-eps-converted-to.pdf> <./figures/seds/gal2-e
-ps-converted-to.pdf> <./figures/2MRS_latlon-eps-converted-to.pdf> <./figures/2M
-RS_zlon-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10
-
- <./figures/cutouts/4-eps-converted-to.pdf> <./figures/IRAC4/4-eps-converted-to
-.pdf> <./figures/cutouts/14-eps-converted-to.pdf> <./figures/IRAC4/14-eps-conve
-rted-to.pdf> <./figures/2MRS_zlat-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11 <./figures/cutouts/26-eps-converted-to.pdf> <./figures/IRAC4/26-eps-conver
+ [13 <./figures/cutouts/26-eps-converted-to.pdf> <./figures/IRAC4/26-eps-conver
 ted-to.pdf> <./figures/seds/gal26-eps-converted-to.pdf> <./figures/cutouts/27-e
 ps-converted-to.pdf> <./figures/IRAC4/27-eps-converted-to.pdf> <./figures/cutou
 ts/32-eps-converted-to.pdf> <./figures/IRAC4/32-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <./figures/cutouts/33-eps-converted-to.pdf> <./figures/IRAC4/33-eps-conver
-ted-to.pdf> <./figures/cutouts/40-eps-converted-to.pdf> <./figures/IRAC4/40-eps
--converted-to.pdf> <./figures/cutouts/43-eps-converted-to.pdf> <./figures/IRAC4
-/43-eps-converted-to.pdf> <./figures/seds/gal43-eps-converted-to.pdf>] (./MWPGa
-laxies.aux) ) 
+ [14 <./figures/cutouts/33-eps-converted-to.pdf> <./figures/IRAC4/33-eps-conver
+ted-to.pdf> <./figures/cutouts/37-eps-converted-to.pdf> <./figures/IRAC4/37-eps
+-converted-to.pdf> <./figures/seds/gal37-eps-converted-to.pdf> <./figures/cutou
+ts/40-eps-converted-to.pdf> <./figures/IRAC4/40-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./figures/cutouts/43-eps-converted-to.pdf> <./figures/IRAC4/43-eps-conver
+ted-to.pdf> <./figures/seds/gal43-eps-converted-to.pdf>] (./MWPGalaxies.aux) ) 
 Here is how much of TeX's memory you used:
- 2799 strings out of 493488
- 46615 string characters out of 3141326
- 119301 words of memory out of 3000000
- 6019 multiletter control sequences out of 15000+200000
+ 2884 strings out of 493488
+ 50008 string characters out of 3141326
+ 123064 words of memory out of 3000000
+ 6098 multiletter control sequences out of 15000+200000
  15266 words of font info for 50 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,13n,34p,1469b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
-x9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.
-pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pf
-b></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
-ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
-12/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2012/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2012/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on MWPGalaxies.pdf (12 pages, 2130502 bytes).
+<
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/loca
+l/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
+2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2012/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2012/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2012/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2012/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2012/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2012/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2012/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on MWPGalaxies.pdf (15 pages, 2297793 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 311 compressed objects within 4 object streams
+ 636 PDF objects out of 1000 (max. 8388607)
+ 384 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 391 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 481 words of extra memory for PDF output out of 10000 (max. 10000000)
 

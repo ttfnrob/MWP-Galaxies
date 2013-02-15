@@ -28,4 +28,4 @@ set ylabel "GLAT / degrees" offset 3,0
 set title "Comparison to 2MRS"
 set style data points
 
-plot '2mrs/2mrscut.dat' using 3:2 ls 1, 'gals_z.csv' using 5:2 ls 2
+plot '../../data/2mrs/2mrscut.dat' using 3:2 ls 1, '../../data/gals_fitted_z.csv' using 5:2 ls 2

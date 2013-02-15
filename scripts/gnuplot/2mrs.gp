@@ -27,4 +27,4 @@ set ylabel "GLAT / degrees" offset 3,0
 set title "Comparison to 2MRS (Galactic Coordinates)"
 set style data points
 
-plot '../../data/2mrs/2mrscut.dat' using 1:2 ls 1, '../../data/2mrs/2mrscut.dat' using ($1-360):2 ls 1, '../../data/gals_z.csv' using 4:2 ls 2
+plot '../../data/2mrs/2mrscut.dat' using 1:2 ls 1, '../../data/2mrs/2mrscut.dat' using ($1-360):2 ls 1, '../../data/gals_fitted_z.csv' using 4:2 ls 2

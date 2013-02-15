@@ -12,7 +12,7 @@ This repository is an open science paper created as part of the [Zooniverse](htt
 
 **/scripts** is the location of scripts for the creation of tables, figures, etc in the paper. These should be created using data files stores in **/data** and result in new files stored either in **/data** or **/figures**.
 
-The main tex file is **MWPGalaxies.tex** and the main reference library is **mwpref.bib**. The other files are common LaTeX entities, and are only included for comepleteness.
+The main tex file is **MWPGalaxies.tex** and the main reference library is **mwpref.bib**. The other files are common LaTeX entities, and are only included for completeness.
 
 ###Paper Abstract
 

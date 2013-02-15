@@ -1,7 +1,7 @@
 %!PS-Adobe-2.0 EPSF-2.0
-%%Title: polar.eps
-%%Creator: gnuplot 4.4 patchlevel 0
-%%CreationDate: Wed Jan 23 22:53:34 2013
+%%Title: ../../figures/polar.eps
+%%Creator: gnuplot 4.6 patchlevel 1
+%%CreationDate: Fri Feb 15 12:25:00 2013
 %%DocumentFonts: (atend)
 %%BoundingBox: 50 50 446 266
 %%EndComments
@@ -20,10 +20,12 @@ gnudict begin
 /Level1 false def
 /Rounded false def
 /ClipToBoundingBox false def
+/SuppressPDFMark false def
 /TransparentPatterns false def
 /gnulinewidth 5.000 def
 /userlinewidth gnulinewidth def
 /Gamma 1.0 def
+/BackgroundColor {-1.000 -1.000 -1.000} def
 %
 /vshift -46 def
 /dl1 {
@@ -38,22 +40,6 @@ gnudict begin
 /vpt_ 31.5 def
 /hpt hpt_ def
 /vpt vpt_ def
-Level1 {} {
-/SDict 10 dict def
-systemdict /pdfmark known not {
-  userdict /pdfmark systemdict /cleartomark get put
-} if
-SDict begin [
-  /Title (polar.eps)
-  /Subject (gnuplot plot)
-  /Creator (gnuplot 4.4 patchlevel 0)
-  /Author (Rob)
-%  /Producer (gnuplot)
-%  /Keywords ()
-  /CreationDate (Wed Jan 23 22:53:34 2013)
-  /DOCINFO pdfmark
-end
-} ifelse
 /doclip {
   ClipToBoundingBox {
     newpath 50 50 moveto 446 50 lineto 446 266 lineto 50 266 lineto closepath
@@ -61,7 +47,7 @@ end
   } if
 } def
 %
-% Gnuplot Prolog Version 4.4 (January 2010)
+% Gnuplot Prolog Version 4.6 (September 2012)
 %
 %/SuppressPDFMark true def
 %
@@ -73,6 +59,7 @@ end
 /Z {closepath} bind def
 /C {setrgbcolor} bind def
 /f {rlineto fill} bind def
+/g {setgray} bind def
 /Gshow {show} def   % May be redefined later in the file to support UTF-8
 /vpt2 vpt 2 mul def
 /hpt2 hpt 2 mul def
@@ -94,6 +81,7 @@ end
 	dup 1 lt {pop 1} if 10 mul /udl exch def} def
 /PL {stroke userlinewidth setlinewidth
 	Rounded {1 setlinejoin 1 setlinecap} if} def
+3.8 setmiterlimit
 % Default Line colors
 /LCw {1 1 1} def
 /LCb {0 0 0} def
@@ -326,7 +314,8 @@ end
 /PatternFill {gsave /PFa [ 9 2 roll ] def
   PFa 0 get PFa 2 get 2 div add PFa 1 get PFa 3 get 2 div add translate
   PFa 2 get -2 div PFa 3 get -2 div PFa 2 get PFa 3 get Rec
-  gsave 1 setgray fill grestore clip
+  TransparentPatterns {} {gsave 1 setgray fill grestore} ifelse
+  clip
   currentlinewidth 0.5 mul setlinewidth
   /PFs PFa 2 get dup mul PFa 3 get dup mul add sqrt def
   0 0 M PFa 5 get rotate PFs -2 div dup translate
@@ -459,8 +448,26 @@ currentdict end definefont pop
   Blacktext {gsave 0 setgray MFshow grestore} {MFshow} ifelse } bind def
 /XYsave    { [( ) 1 2 true false 3 ()] } bind def
 /XYrestore { [( ) 1 2 true false 4 ()] } bind def
+Level1 SuppressPDFMark or 
+{} {
+/SDict 10 dict def
+systemdict /pdfmark known not {
+  userdict /pdfmark systemdict /cleartomark get put
+} if
+SDict begin [
+  /Title (../../figures/polar.eps)
+  /Subject (gnuplot plot)
+  /Creator (gnuplot 4.6 patchlevel 1)
+  /Author (Rob)
+%  /Producer (gnuplot)
+%  /Keywords ()
+  /CreationDate (Fri Feb 15 12:25:00 2013)
+  /DOCINFO pdfmark
+end
+} ifelse
 end
 %%EndProlog
+%%Page: 1 1
 gnudict begin
 gsave
 doclip
@@ -469,6 +476,7 @@ doclip
 0 setgray
 newpath
 (Times) findfont 140 scalefont setfont
+BackgroundColor 0 lt 3 1 roll 0 lt exch 0 lt or or not {BackgroundColor C 1.000 0 0 7920.00 4320.00 BoxColFill} if
 1.000 UL
 LTb
 3959 216 M
@@ -501,91 +509,11 @@ stroke
 ] -46.7 MRshow
 1.000 UL
 LTb
-0.300 UL
-LT0
-LCa setrgbcolor
-79 216 M
-7755 0 R
--2 226 V
--42 386 V
--80 379 V
--118 370 V
--154 356 V
--188 339 V
--222 318 V
--252 295 V
--281 267 V
--306 239 V
--328 207 V
--347 173 V
--363 137 V
--374 101 V
--383 63 V
--387 24 V
--387 -15 V
--385 -53 V
--377 -91 V
-2492 3808 L
-2141 3644 L
-1808 3445 L
-1496 3214 L
-1209 2953 L
-950 2665 L
-720 2353 L
-523 2019 L
-360 1667 L
-234 1300 L
-144 923 L
-92 538 L
-82 216 L
-stroke
-1.000 UL
-LTb
 79 216 M
 stroke
 79 76 M
 [ [(Times) 140.0 0.0 true true 0 ( 0.2)]
 ] -46.7 MCshow
-1.000 UL
-LTb
-0.300 UL
-LT0
-LCa setrgbcolor
-1049 216 M
-5816 0 R
--1 170 V
--31 289 V
--61 285 V
--88 277 V
--115 267 V
--142 254 V
--166 239 V
--190 220 V
--210 201 V
--229 179 V
--246 155 V
--261 130 V
--272 103 V
--281 76 V
--287 47 V
--290 18 V
--291 -11 V
--288 -40 V
--282 -69 V
--275 -96 V
-2596 2787 L
-2346 2638 L
-2112 2465 L
-1897 2269 L
-1702 2053 L
-1530 1818 L
-1382 1568 L
-1260 1304 L
--95 -275 V
-1098 746 L
-1059 458 L
--9 -242 V
-stroke
 1.000 UL
 LTb
 1049 216 M
@@ -595,91 +523,11 @@ stroke
 ] -46.7 MCshow
 1.000 UL
 LTb
-0.300 UL
-LT0
-LCa setrgbcolor
-2019 216 M
-3877 0 R
-0 113 V
--21 193 V
--40 190 V
--59 185 V
--77 177 V
--95 170 V
--111 159 V
--126 147 V
--140 134 V
--153 119 V
--164 104 V
--173 86 V
--182 69 V
--187 50 V
--191 32 V
--194 12 V
--194 -7 V
--192 -27 V
--188 -46 V
--183 -64 V
--176 -82 V
--166 -99 V
-2728 1715 L
-2584 1585 L
-2454 1441 L
-2340 1284 L
--99 -167 V
-2160 941 L
-2096 758 L
-2051 569 L
-2026 377 L
--6 -161 V
-stroke
-1.000 UL
-LTb
 2019 216 M
 stroke
 2019 76 M
 [ [(Times) 140.0 0.0 true true 0 ( 0.1)]
 ] -46.7 MCshow
-1.000 UL
-LTb
-0.300 UL
-LT0
-LCa setrgbcolor
-2989 216 M
-1938 0 R
-0 57 V
--10 96 V
--20 95 V
--30 92 V
--38 89 V
--47 85 V
--56 80 V
--63 73 V
--70 67 V
--76 60 V
--82 51 V
--87 44 V
--91 34 V
--94 25 V
--95 16 V
--97 6 V
--97 -4 V
--96 -13 V
--94 -23 V
--92 -32 V
--87 -41 V
--84 -50 V
--78 -57 V
--71 -66 V
--65 -72 V
--58 -78 V
--49 -83 V
--41 -88 V
--31 -92 V
--23 -94 V
--13 -96 V
--3 -81 V
-stroke
 1.000 UL
 LTb
 2989 216 M
@@ -689,6 +537,41 @@ stroke
 ] -46.7 MCshow
 1.000 UL
 LTb
+3959 216 M
+stroke
+3959 76 M
+[ [(Times) 140.0 0.0 true true 0 ( 0)]
+] -46.7 MCshow
+1.000 UL
+LTb
+4929 216 M
+stroke
+4929 76 M
+[ [(Times) 140.0 0.0 true true 0 ( 0.05)]
+] -46.7 MCshow
+1.000 UL
+LTb
+5899 216 M
+stroke
+5899 76 M
+[ [(Times) 140.0 0.0 true true 0 ( 0.1)]
+] -46.7 MCshow
+1.000 UL
+LTb
+6869 216 M
+stroke
+6869 76 M
+[ [(Times) 140.0 0.0 true true 0 ( 0.15)]
+] -46.7 MCshow
+1.000 UL
+LTb
+7839 216 M
+stroke
+7839 76 M
+[ [(Times) 140.0 0.0 true true 0 ( 0.2)]
+] -46.7 MCshow
+1.000 UL
+LTb
 0.300 UL
 LT0
 LCa setrgbcolor
@@ -697,6 +580,9 @@ stroke
 1.000 UL
 LTb
 3959 216 M
+0 -63 V
+0 63 R
+0 63 V
 stroke
 3959 76 M
 [ [(Times) 140.0 0.0 true true 0 ( 0)]
@@ -745,6 +631,9 @@ stroke
 1.000 UL
 LTb
 4929 216 M
+0 -63 V
+0 63 R
+0 63 V
 stroke
 4929 76 M
 [ [(Times) 140.0 0.0 true true 0 ( 0.05)]
@@ -793,6 +682,9 @@ stroke
 1.000 UL
 LTb
 5899 216 M
+0 -63 V
+0 63 R
+0 63 V
 stroke
 5899 76 M
 [ [(Times) 140.0 0.0 true true 0 ( 0.1)]
@@ -841,6 +733,9 @@ stroke
 1.000 UL
 LTb
 6869 216 M
+0 -63 V
+0 63 R
+0 63 V
 stroke
 6869 76 M
 [ [(Times) 140.0 0.0 true true 0 ( 0.15)]
@@ -889,6 +784,9 @@ stroke
 1.000 UL
 LTb
 7839 216 M
+0 -63 V
+0 63 R
+0 63 V
 stroke
 7839 76 M
 [ [(Times) 140.0 0.0 true true 0 ( 0.2)]
@@ -938,6 +836,7 @@ LT0
 3465 1140 Pls
 3772 556 Pls
 3637 579 Pls
+3787 401 Pls
 3657 490 Pls
 3536 587 Pls
 3516 531 Pls
@@ -964,9 +863,11 @@ LT0
 3970 429 Pls
 3977 662 Pls
 % End plot #1
-1.000 UP
 1.000 UL
 LTb
+3959 216 M
+3880 0 V
+1.000 UP
 stroke
 grestore
 end
