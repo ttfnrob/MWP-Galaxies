@@ -1,7 +1,4 @@
-#The Milky Way Project
-======================
-##New Galaxies in the Zone of Avoidance
-----------------------------------------
+#The Milky Way Project: New Galaxies in the Zone of Avoidance
 
 ##About
 
