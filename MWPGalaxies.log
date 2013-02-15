@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.23)  15 FEB 2013 12:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.23)  15 FEB 2013 12:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1265,11 +1265,6 @@ Overfull \hbox (1.91785pt too wide) in paragraph at lines 277--278
 
 [4 <./figures/seds/gal4-eps-converted-to.pdf> <./figures/seds/gal14-eps-convert
 ed-to.pdf> <./figures/seds/gal32-eps-converted-to.pdf>]
-Overfull \hbox (68.63228pt too wide) in paragraph at lines 289--331
- [] 
- []
-
-
 Underfull \hbox (badness 1107) in paragraph at lines 363--364
 \OT1/cmr/m/n/9 This pub-li-ca-tion has been made pos-si-ble by the par-
  []
@@ -2519,7 +2514,7 @@ fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2012/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2012/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti9.pfb>
-Output written on MWPGalaxies.pdf (15 pages, 2297793 bytes).
+Output written on MWPGalaxies.pdf (15 pages, 2298708 bytes).
 PDF statistics:
  636 PDF objects out of 1000 (max. 8388607)
  384 compressed objects within 4 object streams
