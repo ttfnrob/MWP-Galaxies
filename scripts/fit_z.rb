@@ -1,22 +1,23 @@
 mod = []
-File.open('spectra.dat').each do |line|
+File.open('../data/dale_spectra.dat').each do |line|
   mod << line.split(' ')
 end
 
 # puts mod[166][0]
 
 gal = {}
-File.open('gals.dat').each do |line|
+File.open('../data/gals_IRAC_magnitudes.dat').each do |line|
   d = line.split(' ')
   gal[d[0]] = {} unless gal.include?(d[0])
   gal[d[0]]['lon'] = d[1]
   gal[d[0]]['lat'] = d[2]
-end 
-
-File.open('gals.dat').each do |line|
-  d = line.split(' ')
   gal[d[0]][d[3]] = d[5].to_f
 end 
+
+# File.open('../data/gals_IRAC_magnitudes.dat').each do |line|
+#   d = line.split(' ')
+#   gal[d[0]][d[3]] = d[5].to_f
+# end 
 
 output = "galaxy, GLAT, GLON1, GLON2, z\n"
 gal.each do |g|
@@ -45,7 +46,7 @@ gal.each do |g|
   mag = mags[best]
   puts "Galaxy #{g[0]} is best fit by model #{best+1} with extinction of #{avgs[best]} vFv or #{mag} mag"
   
-  zrange = (1..2000).to_a
+  zrange = (1..5000).to_a
   fs = []
   zs = []
   zrange.each do |zb|
@@ -60,4 +61,4 @@ gal.each do |g|
   g[1]['lon'].to_f>180 ? glon2=g[1]['lon'].to_f-360 : glon2=g[1]['lon'].to_f
   output << "#{g[0]}, #{g[1]['lat']}, #{g[1]['lon']},  #{glon2}, #{best_z}\n"
 end    
-File.open('gals_z.csv', 'w') {|f| f.write(output) }
+File.open('../data/gals_fitted_z.csv', 'w') {|f| f.write(output) }

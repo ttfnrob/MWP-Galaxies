@@ -1,7 +1,7 @@
 # Fdb version 3
-["bibtex MWPGalaxies"] 1360862259 "MWPGalaxies.aux" "MWPGalaxies.bbl" "MWPGalaxies" 1360862763
+["bibtex MWPGalaxies"] 1360862259 "MWPGalaxies.aux" "MWPGalaxies.bbl" "MWPGalaxies" 1360924380
   "./apj.bst" 1242674275 31892 14e448e237007cb1045b59d2b2e638fe ""
-  "MWPGalaxies.aux" 1360862762 17233 5c4a19dbbe267c3b101a7f3441f21272 ""
+  "MWPGalaxies.aux" 1360924379 17233 5c4a19dbbe267c3b101a7f3441f21272 ""
   "MWPGalaxies.bcf" 0 -1 0 ""
   "mwpref.bib" 1359033150 48415 d5e93166a93b3b519412e6d9bda124e5 ""
   (generated)
@@ -107,9 +107,9 @@
   "MWPGalaxies.log"
   "MWPGalaxies.dvi"
   "MWPGalaxies.aux"
-["pdflatex"] 1360862761 "MWPGalaxies.tex" "MWPGalaxies.pdf" "MWPGalaxies" 1360862763
-  "./figures/2MRS_latlon-eps-converted-to.pdf" 1359060529 76921 70da4bd937a738df1676b61947bbc6bf ""
-  "./figures/2MRS_latlon.eps" 1359059303 73281 1d1051f282c4c033093f408180ad62a3 ""
+["pdflatex"] 1360924378 "MWPGalaxies.tex" "MWPGalaxies.pdf" "MWPGalaxies" 1360924380
+  "./figures/2MRS_latlon-eps-converted-to.pdf" 1360924362 76958 8a6c6918b57dc2755b92cb95c7feda77 ""
+  "./figures/2MRS_latlon.eps" 1360923091 73603 53e6ed377acbde52f5da7e1c26539d4a ""
   "./figures/2MRS_zlat-eps-converted-to.pdf" 1359060536 76599 d8bcc85af81058e203ba5b885af7a524 ""
   "./figures/2MRS_zlat.eps" 1359059297 70520 c29fa660d1d0bf893e17818ae57e4147 ""
   "./figures/2MRS_zlon-eps-converted-to.pdf" 1359060532 76173 648a605b0fe5fb0e69f87f153de64459 ""
@@ -345,11 +345,11 @@
   "/usr/local/texlive/2012/texmf-var/web2c/pdftex/pdflatex.fmt" 1358985202 3691572 0616639f6ee3ca2e8e902c51ce751985 ""
   "/usr/local/texlive/2012/texmf.cnf" 1341108668 572 7ea7194897937febeb63145e1c3a1f03 ""
   "/usr/local/texlive/2012/texmf/web2c/texmf.cnf" 1336865692 31299 729e216d9b945005c0d4b079c0500bc9 ""
-  "MWPGalaxies.aux" 1360862762 17233 5c4a19dbbe267c3b101a7f3441f21272 ""
+  "MWPGalaxies.aux" 1360924379 17233 5c4a19dbbe267c3b101a7f3441f21272 ""
   "MWPGalaxies.bbl" 1360862259 2818 c11c7b2fb25e85f4e0ae2b88ad0e91a0 "bibtex MWPGalaxies"
   "MWPGalaxies.tex" 1360862760 34832 eb317ed4b668d442e48abd53bfc79db4 ""
-  "figures/2MRS_latlon-eps-converted-to.pdf" 1359060529 76921 70da4bd937a738df1676b61947bbc6bf ""
-  "figures/2MRS_latlon.eps" 1359059303 73281 1d1051f282c4c033093f408180ad62a3 ""
+  "figures/2MRS_latlon-eps-converted-to.pdf" 1360924362 76958 8a6c6918b57dc2755b92cb95c7feda77 ""
+  "figures/2MRS_latlon.eps" 1360923091 73603 53e6ed377acbde52f5da7e1c26539d4a ""
   "figures/2MRS_zlat-eps-converted-to.pdf" 1359060536 76599 d8bcc85af81058e203ba5b885af7a524 ""
   "figures/2MRS_zlat.eps" 1359059297 70520 c29fa660d1d0bf893e17818ae57e4147 ""
   "figures/2MRS_zlon-eps-converted-to.pdf" 1359060532 76173 648a605b0fe5fb0e69f87f153de64459 ""

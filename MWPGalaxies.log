@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.23)  14 FEB 2013 17:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.23)  15 FEB 2013 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1197,12 +1197,12 @@ Overfull \hbox (1.91785pt too wide) in paragraph at lines 259--260
  []
 
 Package epstopdf Info: Source file: <./figures/2MRS_latlon.eps>
-(epstopdf)                    date: 2013-01-24 20:28:23
-(epstopdf)                    size: 73281 bytes
+(epstopdf)                    date: 2013-02-15 10:11:31
+(epstopdf)                    size: 73603 bytes
 (epstopdf)             Output file: <./figures/2MRS_latlon-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2013-01-24 20:48:49
-(epstopdf)                    size: 76921 bytes
+(epstopdf)                    date: 2013-02-15 10:32:42
+(epstopdf)                    size: 76958 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/2MRS_latlon-eps-
 converted-to.pdf ./figures/2MRS_latlon.eps>
 (epstopdf)             \includegraphics on input line 265.
@@ -2067,7 +2067,7 @@ e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2012/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2012/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on MWPGalaxies.pdf (12 pages, 2130456 bytes).
+Output written on MWPGalaxies.pdf (12 pages, 2130502 bytes).
 PDF statistics:
  518 PDF objects out of 1000 (max. 8388607)
  311 compressed objects within 4 object streams
