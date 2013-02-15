@@ -1,0 +1,7 @@
+*.aux
+*.bbl
+*.fdb_latexmk
+*.fls
+*.ps
+*.synctex.gz
+!.gitignore
