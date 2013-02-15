@@ -1,10 +1,10 @@
-#The Milky Way Project: New Galaxies in the Zone of Avoidance
+##The Milky Way Project: New Galaxies in the Zone of Avoidance
 
-##About
+###About
 
 This repository is an open science paper created as part of the [Zooniverse](http://zooniverse.org) citizen science site: [The Milky Way Project](http://www.milkywayprpoject.org). Email [Robert Simpson](mailto:rob@zooniverse.org) with any queries or comments, or create a GitHub pull request :)
 
-##File Structure
+###File Structure
 
 **/data** is the location of all raw data, be it external (e.g. In the case of 2MRS survey data) or internal (e.g. the list of galaxy parameters derived in this study)
 
@@ -14,7 +14,7 @@ This repository is an open science paper created as part of the [Zooniverse](htt
 
 The main tex file is **MWPGalaxies.tex** and the main reference library is **mwpref.bib**. The other files are common LaTeX entities, and are only included for comepleteness.
 
-##Paper Abstract
+###Paper Abstract
 
 We report the discovery of 33 previously unknown galaxies in the Zone of Avoidance. We also present a method for identifying galaxies through data gathered from the citizen science website [The Milky Way Project](http://www.milkywayprpoject.org). 43 candidate galaxies are identified through correlation of markings from volunteers, inspecting Spitzer GLIMPSE and MIPSGAL survey data on `The Milky Way Project' website.
 
