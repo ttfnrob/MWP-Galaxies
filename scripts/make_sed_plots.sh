@@ -3,8 +3,7 @@ for i in {1..43}
 do 
 #say which galaxy is processing
 echo "Galaxy $i" 
-offset=(`awk 'FNR==62 {print -1*$24}' ../data/dale_spectra.dat`+`awk 'FNR==38 {print -1*$24}' ../data/dale_spectra.dat`)/2.0
-echo `$offset`
+export offset=(`awk 'FNR==62 {print -1*$24}' ../data/dale_spectra.dat`+`awk 'FNR==38 {print -1*$24}' ../data/dale_spectra.dat`)/2.0
 
 #create gnuplot settings and save to temp file
 echo "

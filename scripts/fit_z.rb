@@ -54,7 +54,7 @@ gal.each do |g|
     zs << z
     fit = -24 - (vals[best]-5*Math.log10((6000*((1+z)-Math.sqrt(1+z)))/10))-mag-(-6*Math.log10(1+z)) 
     fs << fit**2
-    puts fit
+    # puts fit
   end
   best_fit = fs.rindex(fs.min)
   best_z = zs[best_fit]
